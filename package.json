@@ -23,6 +23,6 @@
     "@babel/core": "^7.20.0",
     "gh-pages": "^5.0.0"
   },
-  "private": true,
-  "homepage": "https://thijs-van-der-velden.github.io/japan-trip"
+  "private": false,
+  "homepage": "https://thijs-van-der-velden.github.io/japan-trip/"
 }
