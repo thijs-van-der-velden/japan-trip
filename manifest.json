@@ -4,6 +4,6 @@
   "lang": "en",
   "name": "JapanTrip",
   "short_name": "JapanTrip",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "/japan-trip/",
   "orientation": "portrait"
 }
