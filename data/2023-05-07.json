@@ -1,0 +1,10 @@
+{
+  "label": "Edinburgh",
+  "timezone": "+01:00",
+  "tickets": [
+    {
+      "label": "Boarding passes",
+      "link": "https://teamlabplanets.dmm.com/en/mytickets/dc3296439d31ebde816"
+    }
+  ]
+}
