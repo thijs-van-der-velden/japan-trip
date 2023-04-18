@@ -4,6 +4,7 @@ import { Page } from './src/external/Page';
 import {transform, motion } from 'framer-motion';
 import { useMemo } from 'react';
 import { ThemeProvider } from 'styled-components';
+import { DateTime } from 'luxon';
 
 import Background from './assets/rising-sun.svg';
 
@@ -19,7 +20,7 @@ const requireAll = ( context ) => {
   context.keys().map(key => {
     const day = context(key);
     day.dateString = key.match(/\.\/(.*).json/)[1];
-    day.date = new Date(Date.parse(`${day.dateString}T09:00:00.000${day.timezone}`));
+    day.date = DateTime.fromISO(`${day.dateString}T09:00:00.000${day.timezone}`);
     data.push(day);
   })
   return data;

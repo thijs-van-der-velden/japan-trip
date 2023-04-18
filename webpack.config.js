@@ -1,4 +1,5 @@
 const createExpoWebpackConfigAsync = require('@expo/webpack-config');
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 /**
  * @see https://github.com/expo/expo/issues/6660#issuecomment-667991626
@@ -24,6 +25,10 @@ const withSVGR = config => {
 
     return rule;
   });
+
+  // config.plugins.push(
+  //   new BundleAnalyzerPlugin()
+  // );
 
   return config;
 };

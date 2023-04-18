@@ -1,5 +1,5 @@
 import React from "react";
-import moment from "moment";
+import { DateTime } from "luxon";
 import Flight from "../rows/flight";
 import QR from "../rows/qr";
 import {
@@ -13,7 +13,7 @@ import {
 const Day = ({ date, label, itinerary }) => {
   return (
     <Wrapper>
-      <DateHeader>{moment(date).format('ddd D/M')}</DateHeader>
+      <DateHeader>{date.toFormat('ccc d/MM')}</DateHeader>
       <Card>
         <CardHeader>{ label }</CardHeader>
         {

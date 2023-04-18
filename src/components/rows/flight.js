@@ -1,6 +1,7 @@
 import React from 'react';
-import { faPlaneDeparture, faPlaneArrival } from '@fortawesome/free-solid-svg-icons'
-import moment from 'moment'
+import { faPlaneDeparture } from '@fortawesome/free-solid-svg-icons/faPlaneDeparture';
+import { faPlaneArrival } from '@fortawesome/free-solid-svg-icons/faPlaneArrival';
+import { DateTime } from 'luxon';
 
 import { FlightRow, IconCollection, IconCollectionItem, Time } from './styles'
 
@@ -12,11 +13,11 @@ const Flight = ({ label, departure, arrival }) => {
       {label}
       <IconCollection>
         <IconCollectionItem>
-          <Time>{moment(departure).format('HH:mm')}</Time>
+          <Time>{DateTime.fromISO(departure).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
           <Icon icon={faPlaneDeparture}/>
         </IconCollectionItem>
         <IconCollectionItem>
-          <Time>{moment(arrival).format('HH:mm')}</Time>
+          <Time>{DateTime.fromISO(arrival).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
           <Icon icon={faPlaneArrival}/>
         </IconCollectionItem>
       </IconCollection>

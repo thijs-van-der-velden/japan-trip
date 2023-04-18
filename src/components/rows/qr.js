@@ -1,6 +1,5 @@
 import React from 'react';
-import { faQrcode } from '@fortawesome/free-solid-svg-icons'
-import moment from 'moment'
+import { faQrcode } from '@fortawesome/free-solid-svg-icons/faQrcode'
 
 import { QRRow } from './styles'
 
