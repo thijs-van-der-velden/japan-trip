@@ -3,9 +3,16 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Page } from './src/external/Page';
 import {transform, motion } from 'framer-motion';
 import { useMemo } from 'react';
+import { ThemeProvider } from 'styled-components';
 
-import Day from './src/components/Day';
-import defaultStyles from './src/default.css';
+import Background from './assets/rising-sun.svg';
+
+import Day from './src/components/day';
+import theme from './src/theme';
+
+import { GlobalStyle } from './src/default-styles';
+
+import fonts from './src/fonts.css';
 
 const requireAll = ( context ) => {
   const data = [];
@@ -21,7 +28,6 @@ const requireAll = ( context ) => {
 const data = requireAll(require.context("./data", false, /.json$/));
 
 export default function App() {
-  console.log(data);
   const pages = useMemo(() => 
     data.map((day, i) => (
       <motion.div
@@ -38,17 +44,28 @@ export default function App() {
   , [data]);
 
   return (
-    <View style={styles.container}>
-      <Page style={{
-        width: '100vw',
-        height: '100vh'
-      }}>
-        {
-         pages
-        }
-      </Page>
-      <StatusBar style="auto" />
-    </View>
+    <ThemeProvider theme={theme}>
+      <Background style={{
+        position: 'absolute',
+        height: '100%',
+        left: '50%',
+        marginLeft: '-73.6667vh',
+        fill: theme.palette.red
+      }}
+        />
+      <GlobalStyle/>
+      <View style={styles.container}>
+        <Page style={{
+          width: '100vw',
+          height: '100vh'
+        }}>
+          {
+          pages
+          }
+        </Page>
+        <StatusBar style="auto" />
+      </View>
+    </ThemeProvider>
   );
 }
 

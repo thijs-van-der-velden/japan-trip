@@ -1,9 +1,25 @@
 {
   "label": "Edinburgh",
   "timezone": "+01:00",
+  "itinerary": [{
+      "type": "flight",
+      "label": "EHD to London",
+      "departure": "2023-05-07T06:15:00.000+01:00",
+      "arrival": "2023-05-07T07:40:00.000+01:00"
+    },{
+      "type": "flight",
+      "label": "LHR to HND",
+      "departure": "2023-05-07T09:40:00.000+01:00",
+      "arrival": "2023-05-07T07:30:00.000+09:00"
+    }, {
+      "type": "qr",
+      "label": "Immigration QR",
+      "link": "https://www.vjw.digital.go.jp/main/#/vjwpim009"
+    }
+  ],
   "tickets": [
     {
-      "label": "Boarding passes",
+      "label": "のすべて",
       "link": "https://teamlabplanets.dmm.com/en/mytickets/dc3296439d31ebde816"
     }
   ]
