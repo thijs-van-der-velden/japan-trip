@@ -48,7 +48,7 @@ export default function App() {
     <ThemeProvider theme={theme}>
       <Background style={{
         position: 'absolute',
-        height: '100%',
+        height: '100vh',
         left: '50%',
         marginLeft: '-73.6667vh',
         fill: theme.palette.red

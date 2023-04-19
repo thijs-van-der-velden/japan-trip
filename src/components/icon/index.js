@@ -4,6 +4,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Icon = styled(FontAwesomeIcon)`
   color: ${({ theme }) => theme.palette.blue};
-  width: 32px;
+  height: 32px;
 `
 export default Icon;

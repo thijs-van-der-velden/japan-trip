@@ -15,6 +15,7 @@ export const DateHeader = styled.h1`
   background: ${({ theme }) => theme.palette.red};
   border-radius: 10px;
   margin: 0 60px 12px;
+  margin-top: ${({ theme }) => theme.spacing.l };
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
 `
   
