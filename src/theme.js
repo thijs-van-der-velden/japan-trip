@@ -1,3 +1,5 @@
+import { css } from 'styled-components';
+
 const theme = {
   palette: {
     text: '#333333',
@@ -7,7 +9,6 @@ const theme = {
     grey: '#574240',
     beige: '#BFA5A3',
     white: '#FFFFFF',
-
     offWhite: '#FFF6F4'
   },
   font: {
@@ -21,8 +22,8 @@ const theme = {
       xl: `1.5em`,
       l: `1.25em`,
       standard: `1em`,
-      s: `0.75em`,
-      t: `0.5em,`
+      s: `0.875em`,
+      t: `0.625em`
     },
     lineHeight: {
       base: 1.4
@@ -38,8 +39,21 @@ const theme = {
     l: `16px`,
     xl: `20px`,
     xxl: `24px`
-  }
+  },
 };
 
 export default theme;
 
+export const divider = css`
+  position: relative;
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: -${({theme}) => theme.spacing.t};
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgb(48,49,51, 0.1), transparent);
+  }
+`

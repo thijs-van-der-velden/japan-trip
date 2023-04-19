@@ -1,4 +1,24 @@
 {
   "label": "Tokyo - 東京",
-  "timezone": "+09:00"
+  "timezone": "JST",
+  "hotel": {
+    "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
+    "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",
+    "location": "Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177",
+    "checkin_time": "2023-05-08T12:00:00.000+09:00"
+  },
+  "itinerary": [
+    {
+      "type": "loi",
+      "label": "Shinjuku Gyoen National Garden",
+      "label_japanese": "新宿御苑",
+      "location": "https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91+%E3%83%88%E3%82%A4%E3%83%AC%EF%BC%88%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B7%E9%96%80%EF%BC%89/@35.6823485,139.7087547,18.92z/data=!3m1!5s0x60188cc08d8e367b:0xacd333c4b7295c7b!4m6!3m5!1s0x60188d5f5dd35add:0xaa16f032336a138a!8m2!3d35.6824321!4d139.7089643!16s%2Fg%2F11tp5r5fyw"
+    },
+    {
+      "type": "loi",
+      "label": "Golden Gai",
+      "label_japanese": "新宿ゴールデン街",
+      "location": "https://www.google.com/maps/place/Shinjuku+Golden+Gai/@35.6918564,139.7063413,16.28z/data=!3m1!5s0x60188cd96fa71f47:0x17cc5dd6e0009ca!4m6!3m5!1s0x60188cd96586b9af:0x71a5c0e1150c1a8f!8m2!3d35.6941118!4d139.7047611!16s%2Fm%2F02vr6_3"
+    }
+  ]
 }

@@ -335,7 +335,7 @@ export const Page = React.forwardRef<HTMLDivElement, PageProps>(
 					if (next !== current) {
 						rPrevious.current = current
 						setCurrent(Math.max(0, Math.min(max, next)))
-						onChangePage && onChangePage(next, rPrevious.current)
+						onChangePage && onChangePage(Math.max(0, Math.min(max, next)), rPrevious.current)
 					}
 				}
 			},

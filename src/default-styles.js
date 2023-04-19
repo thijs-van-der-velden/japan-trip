@@ -5,7 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     ${reboot};
 
     html {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     body {
@@ -31,8 +31,9 @@ export const GlobalStyle = createGlobalStyle`
         font-weight: ${({ theme }) => theme.text.weight.normal};
     }
 
+
     p {
-      margin-bottom: ${({ theme }) => theme.spacing.standard};
+        margin-bottom: 0;
     }
 
     small {
@@ -112,5 +113,13 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
       background: white;
+    }
+
+    p.jp, p.tiny {
+        font-size: ${({ theme }) => theme.text.size.t };
+    }
+
+    p.light {
+        color: ${({ theme }) => theme.palette.beige };
     }
 `;

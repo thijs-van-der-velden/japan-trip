@@ -1,7 +1,7 @@
 
 import styled from 'styled-components';
 import Icon from '../icon';
-
+import { divider } from '../../theme';
 
 export const CardRow = styled.div`
   background: ${({ theme }) => theme.palette.white};
@@ -9,7 +9,7 @@ export const CardRow = styled.div`
   display: flex;
   align-items: top;
   padding: ${({ theme }) => theme.spacing.standard };
-  margin: ${({ theme }) => theme.spacing.standard};
+  margin-bottom: ${({ theme }) => theme.spacing.standard};
   color: ${({ theme }) => theme.palette.text };
 `
 
@@ -28,20 +28,10 @@ export const IconCollectionItem = styled.div`
 `
 
 export const IconCollection = styled.div`
-  
   ${IconCollectionItem} {
-    position: relative;
-    margin-bottom: ${({theme}) => theme.spacing.s};
-    &:after {
-      content: "";
-      position: absolute;
-      bottom: -${({theme}) => theme.spacing.t};
-      left: 5%;
-      right: 5%;
-      width: 90%;
-      height: 1px;
-      background-image: linear-gradient(to right, transparent, rgb(48,49,51, 0.1), transparent);
-    }
+    margin-bottom: ${({theme}) => theme.spacing.s}; 
+
+    ${divider}
   }
 
   ${IconCollectionItem}:last-child {
@@ -66,6 +56,11 @@ export const FlightRow = styled(CardRow)`
 `
 
 export const QRRow = styled(CardRow)`
+  justify-content: space-between;
+  align-items: center;
+`
+
+export const LOIRow = styled(CardRow)`
   justify-content: space-between;
   align-items: center;
 `
