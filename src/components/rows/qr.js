@@ -3,13 +3,13 @@ import { faQrcode } from '@fortawesome/free-solid-svg-icons/faQrcode'
 
 import { QRRow } from './styles'
 
-import Icon from '../icon';
+import IconButton from '../icon-button';
 
-const QR = ({ label, departure, arrival }) => {
+const QR = ({ label, link }) => {
   return (
     <QRRow>
       {label}
-      <Icon icon={faQrcode}/>
+      <IconButton icon={faQrcode} url={link} />
     </QRRow>
   )
 }
