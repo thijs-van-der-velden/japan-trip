@@ -5,12 +5,12 @@
     "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
     "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",
     "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
-  }, 
+  },
   "itinerary": [
     {
       "type": "event",
-      "label": "Tokyo Tour with Yoko",
-      "start_time": "2023-05-09T09:30:00.000+09:00",
+      "label": "Kamakura Tour with Andy",
+      "start_time": "2023-05-12T07:30:00.000+09:00",
       "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
     }
   ]

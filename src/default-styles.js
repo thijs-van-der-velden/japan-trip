@@ -122,4 +122,16 @@ export const GlobalStyle = createGlobalStyle`
     p.light {
         color: ${({ theme }) => theme.palette.beige };
     }
+
+    p.grey {
+        color: ${({ theme }) => theme.palette.grey };
+    }
+
+    p.lightBlue {
+        color: ${({ theme }) => theme.palette.lightBlue };
+    }
+
+    p.darkBlue {
+        color: ${({ theme }) => theme.palette.darkBlue };
+    }
 `;

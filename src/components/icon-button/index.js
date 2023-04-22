@@ -4,8 +4,11 @@ import styled from 'styled-components';
 import Icon from '../icon';
 
 const StyledButton = styled.a`
+  padding: ${({ theme }) => theme.spacing.s};
+
   ${Icon} {
     color: ${({ theme }) => theme.palette.blue };
+    height: 24px;
   }
 `
 

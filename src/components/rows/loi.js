@@ -1,5 +1,5 @@
 import React from 'react';
-import { faLocationDot } from '@fortawesome/free-solid-svg-icons/faLocationDot';
+import { faMapLocationDot } from '@fortawesome/free-solid-svg-icons/faMapLocationDot';
 
 import { LOIRow } from './styles'
 
@@ -12,7 +12,7 @@ const LOI = ({ label, label_japanese, location }) => {
         <p>{label}</p>
         <p className="jp">{label_japanese}</p>
       </div>
-      <IconButton icon={faLocationDot} url={location} />
+      <IconButton icon={faMapLocationDot} url={location} />
     </LOIRow>
   )
 }

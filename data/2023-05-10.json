@@ -1,0 +1,42 @@
+{
+  "label": "Tokyo - 東京",
+  "timezone": "JST",
+  "hotel": {
+    "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
+    "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",
+    "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
+  },
+  "itinerary": [{
+      "type": "loi",
+      "label": "Meji Jinga Shrine",
+      "label_japanese": "明治神宮",
+      "location": "https://www.google.com/maps/place/Meiji+Jingu+Kitasando+Torii/@35.6798703,139.7019046,17.89z/data=!4m15!1m8!3m7!1s0x60188ca54de5a685:0x6df242d13cd0806e!2sYoyogi+Park+St,+Shibuya+City,+Tokyo,+Japan!3b1!8m2!3d35.6684004!4d139.6969957!16s%2Fg%2F11qpxyb357!3m5!1s0x60188db1f332550f:0xb866dded4b2721ab!8m2!3d35.6789652!4d139.7021612!16s%2Fg%2F11h1zwgw8t"
+    }, {
+      "type": "loi",
+      "label": "Yoyogi Park",
+      "label_japanese": "代々木公園",
+      "location": "https://www.google.com/maps/place/Yoyogi+Park+Clock+Tower/@35.6695611,139.7017411,17.57z/data=!4m6!3m5!1s0x60188cb01936530f:0x93dcfb878a734199!8m2!3d35.6690816!4d139.7007898!16s%2Fg%2F11bwh91vmf"
+    }, {
+      "type": "loi",
+      "label": "Harajuku",
+      "label_japanese": "原宿",
+      "location": "https://www.google.com/maps/place/FamilyMart/@35.671696,139.7031498,19.48z/data=!3m1!5s0x60188cbafa84dc1d:0x4d357686b372ce7c!4m15!1m8!3m7!1s0x60188ca4adde65cb:0x1eb1e58ab2168aa1!2s1-ch%C5%8Dme-6+Jing%C5%ABmae,+Shibuya+City,+Tokyo+150-0001,+Japan!3b1!8m2!3d35.6711351!4d139.7052181!16s%2Fg%2F11c3q3gqck!3m5!1s0x60188cbaf06db8b9:0xfecd9355be5db5e1!8m2!3d35.6715996!4d139.7031998!16s%2Fg%2F1vzn5k4r"
+    }, {
+      "type": "event",
+      "label": "84 Nintendo Cafe",
+      "start_time": "2023-05-10T15:00:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Shibuya+Scramble+Crossing/@35.6673075,139.7051184,14.31z/data=!3m1!5s0x60188b57f546295f:0x486cece41a7b21b0!4m6!3m5!1s0x60188bcaeb0cd12b:0x20e563a2e0aec969!8m2!3d35.659482!4d139.7005596!16s%2Fg%2F11shy4scrj"
+    }, {
+      "type": "event",
+      "label": "Shibuya Sky",
+      "start_time": "2023-05-10T17:40:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9",
+      "ticket": "https://mail.google.com/mail/u/0?ui=2&ik=e3dc49a2d2&attid=0.1&permmsgid=msg-f:1763736927376523830&th=187a0d6409844236&view=att&disp=safe"
+    }, {
+      "type": "event",
+      "label": "MagicalTrip food tour",
+      "start_time": "2023-05-10T18:50:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Hakone - 箱根町",
+  "timezone": "JST",
+  "hotel": {
+    "name_english": "Kyomachiya Ryokan Sakura Urushitei",
+    "name_japanese": "京町家旅館さくらうるし邸",
+    "location": "https://www.google.com/maps/place/Kyomachiya+Ryokan+Sakura+Urushitei/@34.9998523,135.7638833,17.31z/data=!4m9!3m8!1s0x600108bd83496e37:0x32d99888af7adfd0!5m2!4m1!1i2!8m2!3d35.0000132!4d135.7640715!16s%2Fg%2F11b7kdnkvd?hl=en-GB"
+  },
+  "itinerary": [] 
+}

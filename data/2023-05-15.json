@@ -1,0 +1,27 @@
+{
+  "label": "Hakone - 箱根町",
+  "timezone": "JST",
+  "hotel": {
+    "name_english": "Kyomachiya Ryokan Sakura Urushitei",
+    "name_japanese": "京町家旅館さくらうるし邸",
+    "location": "https://www.google.com/maps/place/Kyomachiya+Ryokan+Sakura+Urushitei/@34.9998523,135.7638833,17.31z/data=!4m9!3m8!1s0x600108bd83496e37:0x32d99888af7adfd0!5m2!4m1!1i2!8m2!3d35.0000132!4d135.7640715!16s%2Fg%2F11b7kdnkvd?hl=en-GB",
+    "checkin_time": "2023-05-15T12:00:00.000+09:00"
+  },
+  "itinerary": [{
+    "type": "route",
+    "travel_type": "bus",
+    "label": "Bus to Fuji observation deck",
+    "departure": "2023-05-15T06:31:00.000+09:00",
+    "arrival": "2023-05-15T07:03:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Fukuzumiro,+Tonosawa,+Hakone,+Kanagawa,+Japan/Japan,+%E3%80%92250-0522+Kanagawa,+Ashigarashimo+District,+Hakone,+Motohakone,+171+%E5%BC%81%E5%A4%A9%E3%81%AE%E9%BC%BB+%E5%B1%95%E6%9C%9B%E5%8F%B0/@35.1951149,139.0278918,17.52z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6019a3a701647bf7:0x353d21bda298579a!2m2!1d139.0946381!2d35.2329268!1m5!1m1!1s0x60199866a6410ae1:0xbc01d85e939834a3!2m2!1d139.0258304!2d35.1974366!2m3!6e1!7e2!8j1684134900!3e3",
+    "ticket": "https://www.emot-tickets.jp/my-tickets?&language=en&site=odakyuglobal"
+  }, {
+    "type": "route",
+    "travel_type": "train",
+    "label": "Hakone ⇒ Kyoto",
+    "label_japanese": "箱根湯本駅 ⇒ 京都市",
+    "departure": "2023-05-15T13:25:00.000+09:00",
+    "arrival": "2023-05-15T16:11:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Hakone-Yumoto+Station,+Yumoto,+Hakone,+Ashigarashimo+District,+Kanagawa+250-0311,+Japan/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto,+Japan/@34.5507683,136.2727823,8z/am=t/data=!4m19!4m18!1m5!1m1!1s0x6019a37513517f71:0x9ba58d3f229386a2!2m2!1d139.1035878!2d35.2332816!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!2m3!6e0!7e2!8j1684155600!3e3!5i1"
+  }] 
+}

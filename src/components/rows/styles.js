@@ -9,7 +9,7 @@ export const CardRow = styled.div`
   display: flex;
   align-items: top;
   padding: ${({ theme }) => theme.spacing.standard };
-  margin-bottom: ${({ theme }) => theme.spacing.standard};
+  margin-bottom: ${({ theme }) => theme.spacing.t};
   color: ${({ theme }) => theme.palette.text };
 `
 
@@ -28,6 +28,7 @@ export const IconCollectionItem = styled.div`
 `
 
 export const IconCollection = styled.div`
+  margin: 0 ${({ theme }) => theme.spacing.s};
   ${IconCollectionItem} {
     margin-bottom: ${({theme}) => theme.spacing.s}; 
 
@@ -39,6 +40,14 @@ export const IconCollection = styled.div`
     &:after {
       content: none;
     }
+  }
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
   }
 
 `
@@ -61,6 +70,16 @@ export const QRRow = styled(CardRow)`
 `
 
 export const LOIRow = styled(CardRow)`
+  justify-content: space-between;
+  align-items: center;
+`
+
+export const EventRow = styled(CardRow)`
+  justify-content: space-between;
+  align-items: center;
+`
+
+export const RouteRow = styled(CardRow)`
   justify-content: space-between;
   align-items: center;
 `
