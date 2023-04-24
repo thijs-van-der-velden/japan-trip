@@ -1,6 +1,7 @@
 {
   "label": "Tokyo - 東京",
   "timezone": "JST",
+  "palette": 0,
   "hotel": {
     "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
     "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",

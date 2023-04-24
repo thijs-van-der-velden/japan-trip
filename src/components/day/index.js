@@ -20,9 +20,9 @@ import Icon from "../icon";
 import IconButton from "../icon-button";
 
 
-const Day = ({ timezone, date, label, itinerary, hotel }) => {
+const Day = ({ timezone, date, label, itinerary, hotel, palette }) => {
   return (
-    <Wrapper>
+    <Wrapper palette={palette}>
       <DateHeader>{date.toFormat('ccc d/MM')}</DateHeader>
       <Card>
         <CardHeader>{ label }</CardHeader>
@@ -47,7 +47,7 @@ const Day = ({ timezone, date, label, itinerary, hotel }) => {
         }
 
         {
-          itinerary && itinerary.length && itinerary.map((item, i) => {
+          itinerary && itinerary.length > 0 && itinerary.map((item, i) => {
             console.log(item);
             switch(item.type) {
               case 'flight':

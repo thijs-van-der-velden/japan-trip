@@ -1,6 +1,7 @@
 {
-  "label": "Hakone - 箱根町",
+  "label": "Kyoto - 京都",
   "timezone": "JST",
+  "palette": 2,
   "hotel": {
     "name_english": "Kyomachiya Ryokan Sakura Urushitei",
     "name_japanese": "京町家旅館さくらうるし邸",
@@ -19,7 +20,7 @@
     "type": "route",
     "travel_type": "train",
     "label": "Hakone ⇒ Kyoto",
-    "label_japanese": "箱根湯本駅 ⇒ 京都市",
+    "label_japanese": "箱根湯本駅 ⇒ 京都",
     "departure": "2023-05-15T13:25:00.000+09:00",
     "arrival": "2023-05-15T16:11:00.000+09:00",
     "route": "https://www.google.com/maps/dir/Hakone-Yumoto+Station,+Yumoto,+Hakone,+Ashigarashimo+District,+Kanagawa+250-0311,+Japan/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto,+Japan/@34.5507683,136.2727823,8z/am=t/data=!4m19!4m18!1m5!1m1!1s0x6019a37513517f71:0x9ba58d3f229386a2!2m2!1d139.1035878!2d35.2332816!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!2m3!6e0!7e2!8j1684155600!3e3!5i1"

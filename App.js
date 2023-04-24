@@ -60,8 +60,6 @@ export default function App() {
     ))
   , [data]);
 
-  console.log(page);
-
   return (
     <ThemeProvider theme={theme}>
       <Background style={{

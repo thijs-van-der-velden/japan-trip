@@ -10,7 +10,23 @@ const theme = {
     grey: '#574240',
     beige: '#BFA5A3',
     white: '#FFFFFF',
-    offWhite: '#FFF6F4'
+    offWhite: '#FFF6F4',
+    primaryGradient: [
+      '#BC002D',
+      '#A9145C',
+      '#833479',
+      '#55457F',
+      '#324A70',
+      '#2F4858',
+    ],
+    secondaryGradient: [
+      '#FFF6F4',
+      '#FFF5FA',
+      '#FFF4FF',
+      '#FCF7FF',
+      '#F4F9FF',
+      '#EAFCFF'
+    ]
   },
   font: {
     primary: `'Noto Sans', 'Noto Sans JP', sans-serif`,

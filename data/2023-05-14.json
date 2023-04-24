@@ -1,6 +1,7 @@
 {
   "label": "Hakone - 箱根町",
   "timezone": "JST",
+  "palette": 1,
   "hotel": {
     "name_english": "Fukuzumiro",
     "name_japanese": "福住楼",

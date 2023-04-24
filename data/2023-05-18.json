@@ -1,0 +1,19 @@
+{
+  "label": "Nara - 奈良",
+  "timezone": "JST",
+  "palette": 2,
+  "hotel": {
+    "name_english": "Okuyama Nara Kasuga Tsukihitei",
+    "name_japanese": "奈良・春日奥山 月日亭",
+    "location": "https://www.google.com/maps/place/Okuyama+Nara+Kasuga+Tsukihitei/@34.6847113,135.8528339,18z/data=!4m18!1m8!3m7!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!2sKyoto,+Japan!3b1!8m2!3d35.011564!4d135.7681489!16zL20vMDlkNF8!3m8!1s0x600139bfc5d8564d:0x2e40f2e30d96b2ee!5m2!4m1!1i2!8m2!3d34.6850304!4d135.852257!16s%2Fg%2F1tc_l15b",
+    "checkin_time": "2023-05-18T12:00:00.000+09:00"
+  },
+  "itinerary": [{
+    "type": "route",
+    "departure": "2023-05-18T16:37:00.000+09:00",
+    "arrival": "2023-05-18T17:21:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto,+Japan/Nara+Station,+1+Sanjohonmachi,+Nara,+Japan/@34.8173255,135.7718839,11.06z/am=t/data=!4m18!4m17!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60013a2e385f520f:0xb7582b14784ae674!2m2!1d135.8189522!2d34.6808126!2m3!6e1!7e2!8j1684431000!3e3",
+    "label": "Kyoto - Nara",
+    "label_japanese": "京都 - 奈良"
+  }] 
+}

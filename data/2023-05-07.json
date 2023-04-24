@@ -1,6 +1,7 @@
 {
   "label": "Edinburgh",
   "timezone": "BST",
+  "palette": 0,
   "itinerary": [{
       "type": "flight",
       "label": "EHD to London",

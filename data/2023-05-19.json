@@ -1,0 +1,20 @@
+{
+  "label": "Osaka - 大阪",
+  "timezone": "JST",
+  "palette": 3,
+  "hotel": {
+    "name_english": "Hotel Intergate Osaka Umeda",
+    "name_japanese": "ホテルインターゲート大阪 梅田",
+    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16",
+    "checkin_time": "2023-05-19T12:00:00.000+09:00"
+  },
+  "itinerary": [{
+    "type": "route",
+    "departure": "2023-05-19T18:55:00.000+09:00",
+    "arrival": "2023-05-19T19:54:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Nara+Station,+1+Sanj%C5%8Dhonmachi,+Nara,+630-8122,+Japan/Osaka+Station,+3+Chome-1+Umeda,+Kita+Ward,+Osaka,+Japan/@34.6389183,135.5616141,12z/am=t/data=!4m19!4m18!1m5!1m1!1s0x60013a2e385f520f:0xb7582b14784ae674!2m2!1d135.8189522!2d34.6808126!1m5!1m1!1s0x6000e68d95e3a70b:0x1baec822e859c84a!2m2!1d135.4959506!2d34.7024854!2m3!6e1!7e2!8j1684528200!3e3!5i2",
+    "label": "Nara - Osaka",
+    "label_japanese": "奈良 - 大阪"
+  }] 
+}
+

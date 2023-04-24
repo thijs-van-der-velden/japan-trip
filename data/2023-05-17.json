@@ -1,6 +1,7 @@
 {
-  "label": "Hakone - 箱根町",
+  "label": "Kyoto - 京都",
   "timezone": "JST",
+  "palette": 2,
   "hotel": {
     "name_english": "Kyomachiya Ryokan Sakura Urushitei",
     "name_japanese": "京町家旅館さくらうるし邸",

@@ -1,0 +1,11 @@
+{
+  "label": "Osaka - 大阪",
+  "timezone": "JST",
+  "palette": 3,
+  "hotel": {
+    "name_english": "Hotel Intergate Osaka Umeda",
+    "name_japanese": "ホテルインターゲート大阪 梅田",
+    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
+  },
+  "itinerary": [] 
+}
