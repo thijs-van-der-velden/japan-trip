@@ -1,0 +1,12 @@
+{
+  "label": "Nagoya - 名古屋",
+  "timezone": "JST",
+  "palette": 3,
+  "hotel": {
+    "name_english": "Lamp light books hotel",
+    "name_japanese": "ランプライトブックスホテル",
+    "location": "https://www.google.com/maps/place/LAMP+LIGHT+BOOKS+HOTEL+nagoya/@35.1674037,136.8921929,17.15z/data=!4m9!3m8!1s0x600376d7be8186ef:0x935d0be4035334f1!5m2!4m1!1i2!8m2!3d35.169868!4d136.894519!16s%2Fg%2F11g9qvn88y",
+    "checkin_time": "2023-05-23T15:00:00.000+09:00"
+  },
+  "itinerary": [] 
+}
