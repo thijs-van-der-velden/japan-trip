@@ -1,5 +1,5 @@
 {
-  "label": "Hiroshima - 広島",
+  "label": "Miyajima - 宮島",
   "timezone": "JST",
   "palette": 3,
   "hotel": {
@@ -7,5 +7,12 @@
     "name_japanese": "ホテルインターゲート大阪 梅田",
     "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
   },
-  "itinerary": [] 
+  "itinerary": [{
+    "type": "route",
+    "departure": "2023-05-23T16:08:00.000+09:00",
+    "arrival": "2023-05-23T17:51:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Osaka+Station,+3+Chome-1+Umeda,+Kita+Ward,+Osaka,+Japan/HIROSHIMA+STATION,+%EF%BC%92%E7%95%AA%EF%BC%93%EF%BC%97%E5%8F%B7+Matsubaracho,+Minami+Ward,+Hiroshima,+Japan/@34.6204415,135.2871249,11.46z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6000e68d95e3a70b:0x1baec822e859c84a!2m2!1d135.4959506!2d34.7024854!1m5!1m1!1s0x355a9f53bc20533b:0x28413f32450be7eb!2m2!1d132.4753786!2d34.397667!2m3!6e1!7e2!8j1684864800!3e3",
+    "label": "Osaka - Hiroshima",
+    "label_japanese": "大阪 - 広島"
+  }] 
 }
