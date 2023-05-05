@@ -7,5 +7,26 @@
     "name_japanese": "京町家旅館さくらうるし邸",
     "location": "https://www.google.com/maps/place/Kyomachiya+Ryokan+Sakura+Urushitei/@34.9998523,135.7638833,17.31z/data=!4m9!3m8!1s0x600108bd83496e37:0x32d99888af7adfd0!5m2!4m1!1i2!8m2!3d35.0000132!4d135.7640715!16s%2Fg%2F11b7kdnkvd?hl=en-GB"
   },
-  "itinerary": [] 
+  "itinerary": [ {
+      "type": "loi",
+      "label": "Kinkaku-ji",
+      "label_japanese": "金閣寺",
+      "location":"https://www.google.com/maps/place/Kinkaku-ji/@35.0360787,135.739013,13.86z/data=!4m14!1m7!3m6!1s0x6001092813b0ce0f:0xbe5df93fa60eeddd!2sBeginning+Philosopher%E2%80%99s+path!8m2!3d35.0154393!4d135.7957299!16s%2Fg%2F11kbtfcym8!3m5!1s0x6001a820c0eb46bd:0xee4272b1c22645f!8m2!3d35.03937!4d135.7292431!16zL20vMDFrbjR3?hl=en"
+    }, {
+      "type": "food",
+      "label": "Kobe beef - Mouriya Gion",
+      "start_time": "2023-05-17T13:00:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Kobe+Beef+Steak+Mouriya+Gion/@35.0033497,135.7701939,17z/data=!3m2!4b1!5s0x600108c03830b947:0x53f5f955a2e09953!4m6!3m5!1s0x600108c037dc4ed5:0x59a0c3454376ca86!8m2!3d35.0033497!4d135.7727688!16s%2Fg%2F11f4106744"
+    }, {
+      "type": "event",
+      "label": "Tea ceremony at Ju-An",
+      "start_time": "2023-05-17T15:30:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Tea+Ceremony+Ju-An/@34.9953234,135.7615758,17z/data=!3m1!4b1!4m6!3m5!1s0x6001094cf6a41603:0xd2715c87c6b63359!8m2!3d34.9953234!4d135.7641507!16s%2Fg%2F11gnrl98bf"
+    }, {
+      "type": "event",
+      "label": "Gion evening walking tour",
+      "start_time": "2023-05-17T18:00:00.000+09:00",
+      "location": "https://www.google.com/maps/dir//35.00445,135.77238/@35.0047046,135.7712106,16.89z"
+    }
+  ] 
 }

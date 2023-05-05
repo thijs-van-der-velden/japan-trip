@@ -7,5 +7,20 @@
     "name_japanese": "ホテルインターゲート大阪 梅田",
     "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
   },
-  "itinerary": [] 
+  "itinerary": [{
+      "type": "loi",
+      "label": "Cup Noodle Museum",
+      "label_japanese": "カップヌードルミュージアム",
+      "location": "https://www.google.com/maps/place/Cup+Noodles+Museum+Osaka+Ikeda/@34.8188188,135.4325173,14.55z/data=!4m6!3m5!1s0x6000f0c60f096aa7:0xe581ef01f49dbaa!8m2!3d34.8181084!4d135.4267016!16zL20vMDc4bTM5"
+    }, {
+      "type": "loi",
+      "label": "Abandoned train track hike",
+      "label_japanese": "国鉄福知山線跡",
+      "location": "https://www.google.com/maps/dir/%E7%AC%AC8%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB/Japan,+%E3%80%92669-1136+Hyogo,+Nishinomiya,+Najiokonomoto,+13%E2%88%92Unnamed+Road+%EF%BC%91%EF%BC%93+%E5%9B%BD%E9%89%84%E7%A6%8F%E7%9F%A5%E5%B1%B1%E7%B7%9A%E8%B7%A1/@34.8401787,135.3118817,14.54z/data=!4m14!4m13!1m5!1m1!1s0x60005fb0ceb83de3:0xd49d364fc67ef26f!2m2!1d135.3150539!2d34.8578517!1m5!1m1!1s0x6000f59f5ff30523:0xa7f5e49d337f2e72!2m2!1d135.3190622!2d34.8242468!3e2"
+    }, {
+    "type": "food",
+    "label": "Cooking class Osaka",
+    "location": "https://www.google.com/maps/place/Japan,+%E3%80%92537-0013+Osaka,+Higashinari+Ward,+%C5%8Cimazatominami,+1-ch%C5%8Dme%E2%88%921%E2%88%921+%E3%82%AA%E3%82%BA%E4%BB%8A%E9%87%8C%EF%BC%92%E3%83%93%E3%83%AB/@34.668603,135.5429263,20.54z/data=!4m6!3m5!1s0x6000e0a013e8df9b:0x345a3349f2677551!8m2!3d34.6686261!4d135.5431344!16s%2Fg%2F11ddyygrm5",
+    "time": "2023-05-21T18:30:00.00+09:00"
+  }] 
 }

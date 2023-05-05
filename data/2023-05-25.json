@@ -3,16 +3,22 @@
   "timezone": "JST",
   "palette": 3,
   "hotel": {
-    "name_english": "Hotel Intergate Osaka Umeda",
-    "name_japanese": "ホテルインターゲート大阪 梅田",
-    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
+    "name_english": "Miyajima Grand Hotel Arimoto",
+    "name_japanese": "宮島グランドホテル 有もと",
+    "checkin_time": "2023-05-25T15:00:00.000+09:00",
+    "location": "https://www.google.com/maps/place/Miyajima+Grand+Hotel+Arimoto/@34.2959226,132.3192651,17z/data=!3m1!4b1!4m10!3m9!1s0x355aa243d206f9a5:0x4f34545b307bdde6!5m3!1s2023-05-25!4m1!1i2!8m2!3d34.2959226!4d132.32184!16s%2Fg%2F1tltk66s"
   },
   "itinerary": [{
     "type": "route",
-    "departure": "2023-05-23T16:08:00.000+09:00",
-    "arrival": "2023-05-23T17:51:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/Osaka+Station,+3+Chome-1+Umeda,+Kita+Ward,+Osaka,+Japan/HIROSHIMA+STATION,+%EF%BC%92%E7%95%AA%EF%BC%93%EF%BC%97%E5%8F%B7+Matsubaracho,+Minami+Ward,+Hiroshima,+Japan/@34.6204415,135.2871249,11.46z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6000e68d95e3a70b:0x1baec822e859c84a!2m2!1d135.4959506!2d34.7024854!1m5!1m1!1s0x355a9f53bc20533b:0x28413f32450be7eb!2m2!1d132.4753786!2d34.397667!2m3!6e1!7e2!8j1684864800!3e3",
-    "label": "Osaka - Hiroshima",
-    "label_japanese": "大阪 - 広島"
+    "departure": "2023-05-23T10:40:00.000+09:00",
+    "arrival": "2023-05-23T11:26:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/34.3937604,132.4544197/Miyajima+Matsudai-kisen+Ferry+Terminal,+Miyajimacho,+Hatsukaichi,+Hiroshima,+Japan/@34.3562083,132.3410395,13z/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x355ab0b022146fe1:0xbe3b9984bbb81d90!2m2!1d132.3222611!2d34.3022206!2m3!6e0!7e2!8j1685010600!3e3",
+    "label": "Hiroshima - Miyajima",
+    "label_japanese": "広島 -宮島",
+    "ticket": "https://www.aqua-net-h.co.jp/heritage/reservation/form.php?a=kw24&b=61855&c=65674"
+  }, {
+    "type": "food",
+    "label": "Fujitaya - Eel",
+    "location": "https://www.google.com/maps/place/Anagomeshi+(Conger+Eel),+Fujitaya/@34.2942293,132.3160852,17z/data=!3m1!4b1!4m6!3m5!1s0x355ab0ca6d8eac05:0xd090c2887ba0a007!8m2!3d34.2942293!4d132.3186601!16s%2Fg%2F1tsr10y_"
   }] 
 }

@@ -1,0 +1,40 @@
+{
+  "label": "Tokyo - 東京",
+  "timezone": "JST",
+  "palette": 5,
+  "hotel": {
+    "name_english": "Mitsui Garden Hotel Toyosu Premier",
+    "name_japanese": "三井ガーデンホテル豊洲プレミア",
+    "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Toyosu+Premier/@35.6536919,139.7914336,17z/data=!3m1!5s0x600108c03830b947:0x53f5f955a2e09953!4m17!1m7!3m6!1s0x600108c037dc4ed5:0x59a0c3454376ca86!2sKobe+Beef+Steak+Mouriya+Gion!8m2!3d35.0033497!4d135.7727688!16s%2Fg%2F11f4106744!3m8!1s0x6018894ebbf47da7:0xc4f4a893879caa6e!5m2!4m1!1i2!8m2!3d35.6551244!4d139.7946161!16s%2Fg%2F11h930128g",
+    "checkin_time": "2023-05-29T15:00:00.000+09:00"
+  },
+  "itinerary": [{
+    "type": "route",
+    "label": "Nagoya - Tokyo",
+    "label_japanese": "",
+    "departure": "2023-05-29T09:31:00.000+09:00",
+    "arrival": "2023-05-29T11:42:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Nagoya+Station,+1+Chome-1+Meieki,+Nakamura+Ward,+Nagoya,+Aichi,+Japan/Mitsui+Garden+Hotel+Toyosu+Premier,+%E4%B8%89%E4%BA%95%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%9B%E3%83%86%E3%83%AB+2+Chome-2-1+Toyosu,+Koto+City,+Tokyo+135-0061,+Japan/@35.6663567,139.7885193,13.63z/data=!4m18!4m17!1m5!1m1!1s0x600376e794d78b89:0x81f7204bf8261663!2m2!1d136.8815369!2d35.170915!1m5!1m1!1s0x6018894ebbf47da7:0xc4f4a893879caa6e!2m2!1d139.7946161!2d35.6551244!2m3!6e0!7e2!8j1685352600!3e3"
+  }, {
+    "type": "event",
+    "label": "TeamLab Planets TOKYO",
+    "start_time": "2023-05-29T14:00:00.000+09:00",
+    "ticket": "https://teamlabplanets.dmm.com/en/mytickets/dc3296439d31ebde81",
+    "location": "https://www.google.com/maps/place/teamLab+Planets+TOKYO/@35.6491207,139.787199,17z/data=!3m1!4b1!4m6!3m5!1s0x60188908e728e749:0x6de450c94bd3d622!8m2!3d35.6491207!4d139.7897739!16s%2Fg%2F11ghxr0p5m"
+  }, {
+    "type": "loi",
+    "label": "Rainbow Bridge",
+    "label_japanese": "レインボーブリッジ",
+    "location": "https://www.google.com/maps/place/Rainbow+Bridge/@35.6311473,139.7758775,14.21z/data=!4m14!1m7!3m6!1s0x60188a3a7d1916b3:0xc3ec2ab86b6ef1dc!2sShibaura+south+wharf+athletic+park!8m2!3d35.6374898!4d139.759547!16s%2Fg%2F1v76zn3g!3m5!1s0x60188a309545656d:0x20fcbb1fa37a99af!8m2!3d35.6365639!4d139.7631443!16zL20vMDMzdnox"
+  }, {
+    "type": "loi",
+    "label": "Unicorn Gundam Statue",
+    "label_japanese": "実物大ユニコーンガンダム立像",
+    "location": "https://www.google.com/maps/place/Unicorn+Gundam+Statue/@35.6248279,139.7751654,17.95z/data=!4m6!3m5!1s0x601889f9ca53ac17:0xe235a48a3479cb53!8m2!3d35.624451!4d139.7754917!16s%2Fg%2F11fq8sd4fb"
+  }, {
+    "type": "food",
+    "label": "Tempura Yamanoue Ginza",
+    "start_time": "2023-05-29T19:30:00.000+09:00",
+    "location": "https://www.google.com/maps/place/TempuraYamanoue/@35.6689426,139.7622177,16.49z/data=!3m1!5s0x60188be649ab2755:0x641a401c53bd9b0f!4m6!3m5!1s0x60188be64b1280dd:0xd02240e0b257fe4a!8m2!3d35.6692494!4d139.7641602!16s%2Fg%2F11g6z2svby"
+  }]
+}

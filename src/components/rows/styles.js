@@ -8,7 +8,7 @@ export const CardRow = styled.div`
   border-radius: 10px;
   display: flex;
   align-items: top;
-  padding: ${({ theme }) => theme.spacing.standard };
+  padding: ${({ theme }) => theme.spacing.t } ${({ theme }) => theme.spacing.standard };
   margin-bottom: ${({ theme }) => theme.spacing.t};
   color: ${({ theme }) => theme.palette.text };
 `
@@ -75,6 +75,11 @@ export const LOIRow = styled(CardRow)`
 `
 
 export const EventRow = styled(CardRow)`
+  justify-content: space-between;
+  align-items: center;
+`
+
+export const FoodRow = styled(CardRow)`
   justify-content: space-between;
   align-items: center;
 `

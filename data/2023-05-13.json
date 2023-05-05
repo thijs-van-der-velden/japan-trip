@@ -6,5 +6,14 @@
     "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
     "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",
     "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
-  }
+  },
+  "itinerary": [{
+    "type": "food",
+    "label": "Deeney's Scottish Flavour",
+    "location": "https://www.google.com/maps?q=deeney%27s+tokyo&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjXr7KX7d3-AhWKZ8AKHeVoDncQ_AUoAXoECAEQAw"
+  }, {
+    "type": "loi",
+    "label": "Kanda Matsuri Festival",
+    "location": "https://www.google.com/maps/place/Kanda+Myojin+Shrine/@35.7020186,139.764998,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6?hl=en"
+  }]
 }

@@ -1,0 +1,17 @@
+{
+  "label": "Edinburgh",
+  "timezone": "BST",
+  "palette": 0,
+  "itinerary": [{
+      "type": "flight",
+      "label": "HND to LHR",
+      "departure": "2023-05-07T13:15:00.000+09:00",
+      "arrival": "2023-05-07T19:55:00.000+01:00"
+    },{
+      "type": "flight",
+      "label": "LHR to EDI",
+      "departure": "2023-05-07T21:15:00.000+01:00",
+      "arrival": "2023-05-07T22:35:00.000+01:00"
+    }
+  ]
+}

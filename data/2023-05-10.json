@@ -19,6 +19,10 @@
       "location": "https://www.google.com/maps/place/Yoyogi+Park+Clock+Tower/@35.6695611,139.7017411,17.57z/data=!4m6!3m5!1s0x60188cb01936530f:0x93dcfb878a734199!8m2!3d35.6690816!4d139.7007898!16s%2Fg%2F11bwh91vmf"
     }, {
       "type": "loi",
+      "label": "Nintendo Tokyo",
+      "location": "https://www.google.com/maps?q=nintendo+tokyo&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjk7beN2Nb-AhWFScAKHUK_D_0Q_AUoA3oECAEQBQ"
+    }, {
+      "type": "loi",
       "label": "Harajuku",
       "label_japanese": "原宿",
       "location": "https://www.google.com/maps/place/FamilyMart/@35.671696,139.7031498,19.48z/data=!3m1!5s0x60188cbafa84dc1d:0x4d357686b372ce7c!4m15!1m8!3m7!1s0x60188ca4adde65cb:0x1eb1e58ab2168aa1!2s1-ch%C5%8Dme-6+Jing%C5%ABmae,+Shibuya+City,+Tokyo+150-0001,+Japan!3b1!8m2!3d35.6711351!4d139.7052181!16s%2Fg%2F11c3q3gqck!3m5!1s0x60188cbaf06db8b9:0xfecd9355be5db5e1!8m2!3d35.6715996!4d139.7031998!16s%2Fg%2F1vzn5k4r"
@@ -34,7 +38,7 @@
       "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9",
       "ticket": "https://mail.google.com/mail/u/0?ui=2&ik=e3dc49a2d2&attid=0.1&permmsgid=msg-f:1763736927376523830&th=187a0d6409844236&view=att&disp=safe"
     }, {
-      "type": "event",
+      "type": "food",
       "label": "MagicalTrip food tour",
       "start_time": "2023-05-10T18:50:00.000+09:00",
       "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9"

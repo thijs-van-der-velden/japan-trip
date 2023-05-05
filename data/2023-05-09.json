@@ -13,6 +13,15 @@
       "label": "Tokyo Tour with Yoko",
       "start_time": "2023-05-09T09:30:00.000+09:00",
       "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
+    }, {
+      "type": "loi",
+      "label": "Tokyo Tower",
+      "label_japanese": "東京タワー",
+      "location": "https://www.google.com/maps/place/Tokyo+Tower/@35.6556003,139.744748,15.74z/data=!3m1!5s0x60188bbd90bf26cf:0x4ceb5b05598646d0!4m6!3m5!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329!16zL20vMDEzMl94"
+    }, {
+      "type": "food",
+      "label": "Tokyo Ramen Street",
+      "location": "https://www.google.com/maps/place/Tokyo+Ramen+Street/@35.6802935,139.7653819,17z/data=!3m2!4b1!5s0x60188bfbd91993eb:0x73e0693562fc525a!4m6!3m5!1s0x60188bf95f25e619:0x985dbec7845ac2c2!8m2!3d35.6802935!4d139.7679568!16s%2Fg%2F11dxf0n1t3"
     }
   ]
 }

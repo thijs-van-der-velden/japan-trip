@@ -1,19 +1,27 @@
 {
-  "label": "Nara - 奈良",
+  "label": "Kyoto - 京都",
   "timezone": "JST",
   "palette": 2,
   "hotel": {
-    "name_english": "Okuyama Nara Kasuga Tsukihitei",
-    "name_japanese": "奈良・春日奥山 月日亭",
-    "location": "https://www.google.com/maps/place/Okuyama+Nara+Kasuga+Tsukihitei/@34.6847113,135.8528339,18z/data=!4m18!1m8!3m7!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!2sKyoto,+Japan!3b1!8m2!3d35.011564!4d135.7681489!16zL20vMDlkNF8!3m8!1s0x600139bfc5d8564d:0x2e40f2e30d96b2ee!5m2!4m1!1i2!8m2!3d34.6850304!4d135.852257!16s%2Fg%2F1tc_l15b",
-    "checkin_time": "2023-05-18T12:00:00.000+09:00"
+    "name_english": "The Blossom Kyoto",
+    "location": "https://www.google.com/maps/place/THE+BLOSSOM+KYOTO/@34.9964197,135.7609419,17.89z/data=!4m10!3m9!1s0x600108a333e6dde3:0xc8106af5c0e60272!5m3!1s2023-05-25!4m1!1i2!8m2!3d34.9964378!4d135.7620419!16s%2Fg%2F11s_5ffy_l?hl=en",
+    "checkin_time": "2023-05-18T15:00:00.000+09:00"
   },
   "itinerary": [{
     "type": "route",
-    "departure": "2023-05-18T16:37:00.000+09:00",
-    "arrival": "2023-05-18T17:21:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto,+Japan/Nara+Station,+1+Sanjohonmachi,+Nara,+Japan/@34.8173255,135.7718839,11.06z/am=t/data=!4m18!4m17!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60013a2e385f520f:0xb7582b14784ae674!2m2!1d135.8189522!2d34.6808126!2m3!6e1!7e2!8j1684431000!3e3",
-    "label": "Kyoto - Nara",
-    "label_japanese": "京都 - 奈良"
+    "label": "To the tour",
+    "departure": "2023-05-18T08:09:00.000+09:00",
+    "arrival":"2023-05-18T08:46:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Kyomachiya+Ryokan+Sakura+Urushitei,+%E4%BA%AC%E7%94%BA%E5%AE%B6%E6%97%85%E9%A4%A8%E3%81%95%E3%81%8F%E3%82%89%E3%81%86%E3%82%8B%E3%81%97%E9%82%B8+Kichimonjicho,+Shimogyo+Ward,+Kyoto,+Japan/Saga-Arashiyama+Station,+11-1+Sagatenryuji+Kurumamichicho,+Ukyo+Ward,+Kyoto,+616-8373,+Japan/@35.0105677,135.6994072,14z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x600108bd83496e37:0x32d99888af7adfd0!2m2!1d135.7640704!2d35.0000132!1m5!1m1!1s0x6001a9fe9bfe5279:0x1259413423edf0d9!2m2!1d135.6811811!2d35.018781!2m3!6e1!7e2!8j1684399800!3e3"
+  }, {
+    "type": "event",
+    "label": "Arashiyama walking tour",
+    "start_time": "2023-05-18T09:00:00.000+09:00",
+    "location": "https://www.google.com/maps?q=saga-arashiyama+station&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2346SzdT-AhUIXcAKHWv2BVIQ_AUoAXoECAEQAw"
+  }, {
+    "type": "loi",
+    "label": "Arashiyama Monkey Park Iwatayama",
+    "label_japanese": "嵐山モンキーパーク",
+    "location": "https://www.google.com/maps/place/Arashiyama+Monkey+Park+Iwatayama/@35.0107637,135.6780676,17.55z/data=!4m6!3m5!1s0x600100ab6efb49bd:0x1b3493b0430734b2!8m2!3d35.011395!4d135.6766245!16zL20vMDlyMTBq"
   }] 
 }

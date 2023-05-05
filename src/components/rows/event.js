@@ -14,7 +14,7 @@ const Event = ({ label, start_time, location, timezone, ticket }) => {
         <p>{label}</p>
         <p className="darkBlue">{DateTime.fromISO(start_time).setZone(timezone).toLocaleString(DateTime.TIME_24_SIMPLE)}</p>
       </div>
-      <div>
+      <div style={{ display: 'flex'}}>
         {ticket && <IconButton icon={faTicketSimple} url={ticket}/>}
         <IconButton icon={faLocation} url={location} />
       </div>

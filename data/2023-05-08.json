@@ -14,8 +14,11 @@
       "label": "Shinjuku Gyoen National Garden",
       "label_japanese": "新宿御苑",
       "location": "https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91+%E3%83%88%E3%82%A4%E3%83%AC%EF%BC%88%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B7%E9%96%80%EF%BC%89/@35.6823485,139.7087547,18.92z/data=!3m1!5s0x60188cc08d8e367b:0xacd333c4b7295c7b!4m6!3m5!1s0x60188d5f5dd35add:0xaa16f032336a138a!8m2!3d35.6824321!4d139.7089643!16s%2Fg%2F11tp5r5fyw"
-    },
-    {
+    }, {
+      "type": "food",
+      "label": "Konjiki Hototogisu",
+      "location": "https://www.google.com/maps/place/Soba+House+Konjiki-Hototogisu/@35.6887843,139.7082917,15z/data=!4m6!3m5!1s0x6018f324eb5d1539:0x53493bc1aff770b!8m2!3d35.6887843!4d139.7082917!16s%2Fg%2F1tjdrc6d"
+    }, {
       "type": "loi",
       "label": "Golden Gai",
       "label_japanese": "新宿ゴールデン街",

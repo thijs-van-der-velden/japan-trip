@@ -10,10 +10,23 @@
   },
   "itinerary": [{
     "type": "route",
-    "departure": "2023-05-23T16:08:00.000+09:00",
-    "arrival": "2023-05-23T17:51:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/Osaka+Station,+3+Chome-1+Umeda,+Kita+Ward,+Osaka,+Japan/HIROSHIMA+STATION,+%EF%BC%92%E7%95%AA%EF%BC%93%EF%BC%97%E5%8F%B7+Matsubaracho,+Minami+Ward,+Hiroshima,+Japan/@34.6204415,135.2871249,11.46z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6000e68d95e3a70b:0x1baec822e859c84a!2m2!1d135.4959506!2d34.7024854!1m5!1m1!1s0x355a9f53bc20533b:0x28413f32450be7eb!2m2!1d132.4753786!2d34.397667!2m3!6e1!7e2!8j1684864800!3e3",
-    "label": "Osaka - Hiroshima",
-    "label_japanese": "大阪 - 広島"
+    "departure": "2023-05-23T07:50:00.000+09:00",
+    "arrival": "2023-05-23T10:34:00.000+09:00",
+    "route": "mobilenotes://showNote?identifier=68F0CEA0-565D-4B73-81B5-99F25892E44C",
+    "label": "Osaka - Okunoshima",
+    "label_japanese": "大阪 - 大久野島"
+  }, {
+    "type": "loi",
+    "label": "Poison Gas Musem",
+    "label_japanese": "毒ガス資料館",
+    "location": "https://www.google.com/maps/place/Okunoshima+Island+Poison+Gas+Museum/@34.3085286,132.9894529,15.72z/data=!4m28!1m21!4m20!1m6!1m2!1s0x35504593696a2617:0x43932414803f3ab4!2z5aSn5LmF6YeO5bO2KOOBhuOBleOBjuWztik!2m2!1d132.9939774!2d34.30906!1m6!1m2!1s0x355a9908eef34fbb:0x7e4ce50cfc1f772!2sHiroshima,+Japan!2m2!1d132.4553055!2d34.3852894!2m3!6e0!7e2!8j1684854900!3e3!5i3!3m5!1s0x35504530a2325115:0xf3625be4c81d0b21!8m2!3d34.3059237!4d132.9941183!16s%2Fg%2F122nc53k?hl=en"
+  },{
+    "type": "route",
+    "departure": "2023-05-23T15:29:00.000+09:00",
+    "arrival": "2023-05-23T18:26:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/%E5%A4%A7%E4%B9%85%E9%87%8E%E5%B3%B6(%E3%81%86%E3%81%95%E3%81%8E%E5%B3%B6)/Hiroshima,+Japan/@34.3337014,132.6064436,11z/data=!4m19!4m18!1m5!1m1!1s0x35504593696a2617:0x43932414803f3ab4!2m2!1d132.9939774!2d34.30906!1m5!1m1!1s0x355a9908eef34fbb:0x7e4ce50cfc1f772!2m2!1d132.4553055!2d34.3852894!2m3!6e0!7e2!8j1684854900!3e3!5i3?hl=en",
+    "label": "Okunoshima - Hiroshima",
+    "label_japanese": "大久野島 - 広島"
   }] 
 }
+

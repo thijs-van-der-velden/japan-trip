@@ -6,5 +6,29 @@
     "name_english": "Mitsui Garden Hotel Jingu-Gaien Tokyo Premier",
     "name_japanese": "三井ガーデンホテル神宮外苑の杜プレミア",
     "location": "https://www.google.com/maps/place/Mitsui+Garden+Hotel+Jingu-Gaien+Tokyo+Premier/@35.6800183,139.7130562,17z/data=!3m1!4b1!4m9!3m8!1s0x60188d04b1b3464b:0x54e0dec3a20eb827!5m2!4m1!1i2!8m2!3d35.680014!4d139.7156311!16s%2Fg%2F11h113f177"
-  }
+  },
+  "itinerary": [{
+      "type": "event",
+      "label": "Tokyo Skytree",
+      "booking_ref": "ARS_SKYTREE-20230502-NCW9",
+      "start_time": "2023-05-11T10:00:00.000+09:00",
+      "location": "https://www.google.com/maps/place/Tokyo+Skytree/@35.7100627,139.8081255,17z/data=!3m2!4b1!5s0x60188ed6f9e7acb7:0x486cece4c5ab3730!4m6!3m5!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!8m2!3d35.7100627!4d139.8107004!16zL20vMDd0aGty",
+      "ticket": "https://mail.google.com/mail/u/0?ui=2&ik=e3dc49a2d2&attid=0.2&permmsgid=msg-f:1764769509722187665&th=187db884d96e6791&view=att&disp=inline"
+    }, {
+      "type": "loi",
+      "label": "Kappabashi Street",
+      "label_japanese": "かっぱ橋道具街",
+      "location": "https://www.google.com/maps/place/Kappabashi+Dougu+Street/@35.7144588,139.7870293,16.57z/data=!4m6!3m5!1s0x60188e95e87e855d:0x214435b365c89bf3!8m2!3d35.7142991!4d139.7888885!16zL20vMDZ6OTh6"
+    }, {
+      "type": "loi",
+      "label": "Tokyo National Museum",
+      "label_japanese": "東京国立博物館",
+      "location": "https://www.google.com/maps/place/Tokyo+National+Museum/@35.7148669,139.770711,16.36z/data=!3m1!5s0x60188e83526c6cb9:0x4efc1e737b7cad1a!4m6!3m5!1s0x60188e8314d77d11:0x232fd618bd4977dd!8m2!3d35.7188351!4d139.7765215!16zL20vMDVzazVn"
+    }, {
+      "type": "loi",
+      "label": "Akihabara",
+      "label_japanese": "秋葉原",
+      "location": "https://www.google.com/maps/place/Akihabara,+Taito+City,+Tokyo+110-0006,+Japan/@35.7021724,139.7719771,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3!8m2!3d35.7022589!4d139.7744733!16zL20vMDExOW0"
+    }
+  ]
 }

@@ -1,11 +1,27 @@
 {
   "label": "Nagoya - 名古屋",
   "timezone": "JST",
-  "palette": 3,
+  "palette": 4,
   "hotel": {
     "name_english": "Lamp light books hotel",
     "name_japanese": "ランプライトブックスホテル",
     "location": "https://www.google.com/maps/place/LAMP+LIGHT+BOOKS+HOTEL+nagoya/@35.1674037,136.8921929,17.15z/data=!4m9!3m8!1s0x600376d7be8186ef:0x935d0be4035334f1!5m2!4m1!1i2!8m2!3d35.169868!4d136.894519!16s%2Fg%2F11g9qvn88y"
   },
-  "itinerary": [] 
+  "itinerary": [{
+      "type": "loi",
+      "label": "Nagoya Castle",
+      "label_japanese": "名古屋城",
+      "location": "https://www.google.com/maps/place/Nagoya+Castle/@35.1847501,136.8971134,17z/data=!3m1!4b1!4m6!3m5!1s0x600376cbc7b0efb1:0xb9d3e9789275a677!8m2!3d35.1847501!4d136.8996883!16zL20vMDF6djdn"
+    }, {
+      "type": "loi",
+      "label": "Shirotori Garden",
+      "label_japanese": "白鳥庭園",
+      "locaiton": "https://www.google.com/maps/place/Shirotori+Garden/@35.1260959,136.8961446,16.85z/data=!4m16!1m9!3m8!1s0x600379f7bfe647b5:0xa0866d23ee02655!2sShirotori+Garden!8m2!3d35.1261056!4d136.9011025!9m1!1b1!16s%2Fg%2F122qgmk2!3m5!1s0x600379f7bfe647b5:0xa0866d23ee02655!8m2!3d35.1261056!4d136.9011025!16s%2Fg%2F122qgmk2"
+    }, {
+      "type": "event",
+      "label": "Ghibli Park (print tickets)",
+      "start_time": "2023-05-27T12:00:00.000+09:00",
+      "tickets": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=e3dc49a2d2&attid=0.1&permmsgid=msg-a:r-6518941412741122496&th=187e1295b08a73d9&view=att&disp=inline&saddbat=ANGjdJ_HG27BIQglookhHJoBQWF3tloNq0kNSV9sxg0r6GVOBkpmpzx9CvPcAgtXwLCyQeIwKBe70C0nkWwEAHZkrkEpjFNmHgmJnr4yibaPrcZCbvfYn7NGazA1g0HPpVjMSGUH1TAPV5_ixp9syLwveTGnHVOlem31JNdgBQl2npxTRIt8TvQTenfUFY4ce0DkTmNGmMI8IHpfqso8FhyNsBIInh4YdMx1QM_FkdBf_97VWA8n4xH-_FysdOhANW6aljWcn8b9FcxKWHCqs2MvVItnLSNFy-aM2ndRpCWTWzoTvL2-pHxhBxstgu3PcAODRdrPEoXxCo9XGQ4RJpbcLdg2VWDZrLb04zE-nqNrIk9CfXbU84TiUErlbo6swAkdVrbbA0c4qR0Drvglwbr8JLm8Lx1mRe-tYjfvipuAHSKJi9NIvw51_h5fsBEgAw0W1abXiZlyErYPkqEhsKqJ1KukM5qB4D4Gbv73uRSrWwqo-o1C5Nbgkp78FgMjuDex8PAJXvgU7WHaFWo5OFUl_8axzjuFBYCie5dcfOOxZmVZth5Ns9q4fxPyJF-4PgNBd2MnPm8JDBbkOWKIoXUBRp8TJIwD9nV3SZN9CsbJsvPFqPHR9PddJBQ5x1w-eJWCXHDjBoDwFM1D8NAAeROIqypnblYhHISYhDnepOqFIHHSDRcDW-6PlnFnkhM-4csIf_7-rAEyBxKFVn-N-Zv_VBR9w6Vzt0sOwVc1cctZVncLmQl5Csk9ZwPwJjy2Q4dQkpiYV86GUeRgHRC0vyUMFFxjTQ3MPLi0Gf9TNolDbYrC4uPENURi-NC5uRVjhtZZ39yeGoOAdBglHbhZhB0Pi37Y65RpaH8xdYVckoSAhKmrOtGXeEJCSNVZF0CTthICZoSmlCUTDzQ5tWZG2sBQQT0tAZlfEU4wj3RHVBimuLn7ddxXa15w6V4JOih3vvUEpLPWgSsXz_3W6OMZMfq0Bw2tRntpCfLE3BOfFLHx7VDIDxbeFdAx5492pXDhftdl8biEovpDTRWXlrfcvzQ-emFzzJknzNT-OopKYRjWfddZ2JWzkIDwA58yukBwjcwM7n32yPPjTJLTCB81",
+      "location": "https://www.google.com/maps/place/Ghibli+Park/@35.1754551,137.085706,16.68z/data=!3m1!5s0x600366fac19993ef:0xcfad676ecbd7ba29!4m6!3m5!1s0x600367450203d0b3:0x36164b7a69c5128b!8m2!3d35.1758569!4d137.0885101!16s%2Fg%2F11jhvbqnp2"
+  }] 
 }

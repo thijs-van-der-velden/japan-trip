@@ -7,5 +7,20 @@
     "name_japanese": "京町家旅館さくらうるし邸",
     "location": "https://www.google.com/maps/place/Kyomachiya+Ryokan+Sakura+Urushitei/@34.9998523,135.7638833,17.31z/data=!4m9!3m8!1s0x600108bd83496e37:0x32d99888af7adfd0!5m2!4m1!1i2!8m2!3d35.0000132!4d135.7640715!16s%2Fg%2F11b7kdnkvd?hl=en-GB"
   },
-  "itinerary": [] 
+  "itinerary": [{
+    "type": "loi",
+    "label": "Kiyomizu-dera",
+    "label_japanese": "清水寺",
+    "location":"https://www.google.com/maps/place/Kiyomizu-dera/@35.0049141,135.7756796,14.13z/data=!4m6!3m5!1s0x600108d385dcfb07:0x62af658650c434ba!8m2!3d34.9948561!4d135.7850463!16zL20vMDJ5bjNn?hl=en"
+  }, {
+    "type": "loi",
+    "label": "Philosopher's Path",
+    "label_japanese": "哲学の道",
+    "location":"https://www.google.com/maps/place/Beginning+Philosopher%E2%80%99s+path/@35.0169183,135.7954748,16.2z/data=!4m6!3m5!1s0x6001092813b0ce0f:0xbe5df93fa60eeddd!8m2!3d35.0154393!4d135.7957299!16s%2Fg%2F11kbtfcym8?hl=en"
+  }, {
+    "type": "loi",
+    "label": "Higashiyama Jisho-ji",
+    "label_japanese": "東山慈照寺",
+    "location":"https://www.google.com/maps/place/Higashiyama+Jisho-ji/@35.0246521,135.7979346,16.92z/data=!4m6!3m5!1s0x600109050b426fe1:0x258aca1ce888abc9!8m2!3d35.0270213!4d135.7982058!16zL20vMDJ5NG05?hl=en"
+  }] 
 }

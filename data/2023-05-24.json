@@ -7,5 +7,15 @@
     "name_japanese": "ぜ ノット",
     "location": "https://www.google.com/maps/place/THE+KNOT+HIROSHIMA/@34.3867926,132.4554739,14.62z/data=!4m9!3m8!1s0x355aa21307545537:0x3577cd31df89ecf7!5m2!4m1!1i2!8m2!3d34.3894008!4d132.4552309!16s%2Fg%2F11j36qz0fg"
   },
-  "itinerary": [] 
+  "itinerary": [{
+    "type": "event",
+    "label": "Hiroshima Walking Tour",
+    "start_time": "2023-05-24T10:00:00.000+09:00",
+    "ticket": "https://www.viator.com/ticket?code=1380277327%3A2e35c3ac0ff8ef03213f5ff310fc3403ee5e0722ec789b7f731d2b2181b2093d%3A992147613&m=61408&nid=VR.6b3297f5-f599-4e11-a769-49c07332b0a2.VT_EMAIL_TRV",
+    "location": "https://www.google.com/maps/search/Montbell,Japan,+%E3%80%92730-0031+Hiroshima,+Naka+Ward,+Kamiyach%C5%8D,+1-ch%C5%8Dme%E2%88%922%E2%88%92%EF%BC%92%EF%BC%92+%E5%BA%83%E5%B3%B6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0+1%E3%80%812%E9%9A%8E/@34.3946192,132.4573036,17.47z"
+  }, {
+    "type": "food",
+    "label": "Okonomimura",
+    "location": "https://www.google.com/maps/place/Okonomimura/@34.3913554,132.4590967,16.78z/data=!3m1!5s0x355aa20f9d07a06d:0x1c528ec45993c4d6!4m6!3m5!1s0x355aa20f9d1e0bf3:0x13789370c4488ad6!8m2!3d34.3914342!4d132.4619014!16s%2Fm%2F0fqly4g"
+  }] 
 }

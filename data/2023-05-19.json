@@ -1,20 +1,37 @@
 {
-  "label": "Osaka - 大阪",
+  "label": "Nara - 奈良",
   "timezone": "JST",
   "palette": 3,
   "hotel": {
-    "name_english": "Hotel Intergate Osaka Umeda",
-    "name_japanese": "ホテルインターゲート大阪 梅田",
-    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16",
-    "checkin_time": "2023-05-19T12:00:00.000+09:00"
+    "name_english": "Kotonoyado Musashino",
+    "name_japanese": "古都の宿 むさし野",
+    "location": "https://www.google.com/maps/place/Kotonoyado+Musashino/@34.6842141,135.8465725,17.07z/data=!4m10!3m9!1s0x60013995851ac8fd:0x9913dee86a566487!5m3!1s2023-05-25!4m1!1i2!8m2!3d34.6842144!4d135.8466292!16s%2Fg%2F1tfchp09?hl=en",
+    "checkin_time": "2023-05-19T17:30:00.000+09:00"
   },
   "itinerary": [{
     "type": "route",
-    "departure": "2023-05-19T18:55:00.000+09:00",
-    "arrival": "2023-05-19T19:54:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/Nara+Station,+1+Sanj%C5%8Dhonmachi,+Nara,+630-8122,+Japan/Osaka+Station,+3+Chome-1+Umeda,+Kita+Ward,+Osaka,+Japan/@34.6389183,135.5616141,12z/am=t/data=!4m19!4m18!1m5!1m1!1s0x60013a2e385f520f:0xb7582b14784ae674!2m2!1d135.8189522!2d34.6808126!1m5!1m1!1s0x6000e68d95e3a70b:0x1baec822e859c84a!2m2!1d135.4959506!2d34.7024854!2m3!6e1!7e2!8j1684528200!3e3!5i2",
-    "label": "Nara - Osaka",
-    "label_japanese": "奈良 - 大阪"
+    "departure": "2023-05-19T09:48:00.000+09:00",
+    "arrival": "2023-05-19T09:54:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Kyoto+Station,+Higashishiokoji+Kamadonocho,+Shimogyo+Ward,+Kyoto,+Japan/Inari+%E7%A8%B2%E8%8D%B7/@34.976342,135.7545722,15z/am=t/data=!4m18!4m17!1m5!1m1!1s0x600108ae918b02ef:0xb61a446e74a21c08!2m2!1d135.7587667!2d34.985849!1m5!1m1!1s0x60010f6ab5923dc9:0x7ee57c8271322629!2m2!1d135.7708496!2d34.9668072!2m3!6e0!7e2!8j1684446300!3e3",
+    "label": "Kyoto - Inari (every 20 minutes)",
+    "label_japanese": "京都 - 稲荷"
+  }, {
+    "type": "loi",
+    "label": "Fushimi Inari Pathway",
+    "label_japanese":"伏見稲荷大社参道",
+    "location": "https://www.google.com/maps/place/Fushimi+Inari+Pathway/@34.9676261,135.7747048,17.24z/data=!4m6!3m5!1s0x60010f19d7be5077:0xa9d83f8a1599c0!8m2!3d34.9678808!4d135.7756685!16s%2Fg%2F11c3t6q9jx"
+  }, {
+    "type": "route",
+    "departure": "2023-05-19T12:35:00.000+09:00",
+    "arrival": "2023-05-19T13:21:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Inari+%E7%A8%B2%E8%8D%B7/Nara+Station,+1+Sanjohonmachi,+Nara,+Japan/@34.8248708,135.6314865,11z/am=t/data=!4m18!4m17!1m5!1m1!1s0x60010f6ab5923dc9:0x7ee57c8271322629!2m2!1d135.7708496!2d34.9668072!1m5!1m1!1s0x60013a2e385f520f:0xb7582b14784ae674!2m2!1d135.8189522!2d34.6808126!2m3!6e0!7e2!8j1684499400!3e3",
+    "label": " Inari - Nara (every half hour)",
+    "label_japanese": "稲荷 - 奈良"
+  }, {
+    "type": "loi",
+    "label": "Higashimki shopping street",
+    "label_japanese":"東向中町",
+    "location": "https://www.google.com/maps/place/Higashimuki+Nakamachi,+Nara,+630-8215,+Japan/@34.6826005,135.8245176,17.07z/data=!4m6!3m5!1s0x600139879246a625:0x2bf5d6fd2e729599!8m2!3d34.6836982!4d135.828715!16s%2Fg%2F1pxxswp32"
   }] 
 }
 

@@ -4,7 +4,7 @@
   "palette": 0,
   "itinerary": [{
       "type": "flight",
-      "label": "EHD to London",
+      "label": "EHD to LHR",
       "departure": "2023-05-07T06:15:00.000+01:00",
       "arrival": "2023-05-07T07:40:00.000+01:00"
     },{
@@ -16,12 +16,6 @@
       "type": "qr",
       "label": "Immigration QR",
       "link": "https://www.vjw.digital.go.jp/main/#/vjwpim009"
-    }
-  ],
-  "tickets": [
-    {
-      "label": "のすべて",
-      "link": "https://teamlabplanets.dmm.com/en/mytickets/dc3296439d31ebde816"
     }
   ]
 }

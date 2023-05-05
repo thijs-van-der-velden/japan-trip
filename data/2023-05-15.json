@@ -9,6 +9,22 @@
     "checkin_time": "2023-05-15T12:00:00.000+09:00"
   },
   "itinerary": [{
+    "type": "food",
+    "label": "Lunch option 1 - とり天 いちや",
+    "location": "https://www.google.com/maps/place/%E3%81%A8%E3%82%8A%E5%A4%A9+%E3%81%84%E3%81%A1%E3%82%84/@35.1911267,139.0274437,18.19z/data=!4m6!3m5!1s0x6019999ed11da0db:0x6aff0d7d95c356dd!8m2!3d35.1911744!4d139.0272743!16s%2Fg%2F11khzj5hwg"
+  }, {
+    "type": "food",
+    "label": "Lunch option 2 - Tatsumi Garden",
+    "location": "  https://www.google.com/maps/place/Tatsumi+Garden/@35.1888947,139.0250266,18z/data=!4m6!3m5!1s0x6019986961fcc001:0x3d3fd374b5a4fd7a!8m2!3d35.1884895!4d139.0246414!16s%2Fg%2F11c7480nfj"
+  }, {
+    "type": "route",
+    "travel_type": "bus",
+    "label": "Last bus from Hakonemachi-ko",
+    "departure": "2023-05-15T16:21:00.000+09:00",
+    "arrival": "2023-05-15T16:51:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/35.1890943,139.0251797/Hakone-Yumoto+Station,+Yumoto,+Hakone,+Ashigarashimo+District,+Kanagawa+250-0311,+Japan/@35.2034779,139.0347855,14z/data=!4m13!4m12!1m0!1m5!1m1!1s0x6019a37513517f71:0x9ba58d3f229386a2!2m2!1d139.1035878!2d35.2332816!2m3!6e1!7e2!8j1684170900!3e3"
+
+  }, {
     "type": "route",
     "travel_type": "train",
     "label": "Hakone ⇒ Kyoto",

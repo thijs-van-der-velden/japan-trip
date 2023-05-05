@@ -6,7 +6,7 @@
     "name_english": "Fukuzumiro",
     "name_japanese": "福住楼",
     "location": "https://www.google.com/maps/place/Fukuzumiro/@35.233182,139.0895541,16.51z/data=!4m20!1m10!3m9!1s0x6019a3a701647bf7:0x353d21bda298579a!2sFukuzumiro!5m2!4m1!1i2!8m2!3d35.2329243!4d139.094642!16s%2Fm%2F0n5x0m2!3m8!1s0x6019a3a701647bf7:0x353d21bda298579a!5m2!4m1!1i2!8m2!3d35.2329243!4d139.094642!16s%2Fm%2F0n5x0m2",
-    "checkin_time": "2023-05-14T12:00:00.000+09:00"
+    "checkin_time": "2023-05-14T17:30:00.000+09:00"
   },
   "itinerary": [{
     "type": "route",
@@ -17,5 +17,20 @@
     "arrival": "2023-05-14T11:21:00.000+09:00",
     "route": "https://www.google.com/maps/dir/Shinjuku+Station,+3+Chome-38-1+Shinjuku,+Shinjuku+City,+Tokyo+160-0022,+Japan/Hakone-Yumoto+Station,+Yumoto,+Hakone,+Kanagawa,+Japan/@35.6695575,139.6674407,14z/am=t/data=!4m18!4m17!1m5!1m1!1s0x60188cd0d6b1ba1f:0x1c32a1f1ecacfdd5!2m2!1d139.7005713!2d35.6896067!1m5!1m1!1s0x6019a37513517f71:0x9ba58d3f229386a2!2m2!1d139.1035878!2d35.2332816!2m3!6e0!7e2!8j1684057500!3e3?hl=en",
     "ticket": "https://www.emot-tickets.jp/my-tickets?&language=en&site=odakyuglobal"
+  }, {
+    "type": "route",
+    "label": "Hakonetozan Line (every 15 mins)",
+    "departure": "2023-05-14T11:23:00.000+09:00",
+    "arrival": "2023-05-14T11:58:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Hakone-Yumoto+Station,+Yumoto,+Hakone,+Ashigarashimo+District,+Kanagawa+250-0311,+Japan/35.2400771,139.0534929/@35.2322462,139.1016442,17.41z/data=!4m14!4m13!1m5!1m1!1s0x6019a37513517f71:0x9ba58d3f229386a2!2m2!1d139.1035878!2d35.2332816!1m0!2m3!6e0!7e2!8j1684062900!3e3!5i3"
+  }, {
+    "type": "loi",
+    "label": "Kowakudani Azealia Festival",
+    "location": "https://www.google.com/maps/place/Kowakudani,+Hakone,+Ashigarashimo+District,+Kanagawa+250-0406,+Japan/@35.2321379,139.0406151,15z/data=!3m1!4b1!4m6!3m5!1s0x6019a20d5c75fc33:0xda9c98685258ba20!8m2!3d35.2321069!4d139.0501471!16s%2Fg%2F12214q4x3"
+  }, {
+    "type": "loi",
+    "label": "Chisuji Falls",
+    "label_japanese": "千条の滝",
+    "location": "https://www.google.com/maps/place/Chisuji+Falls/@35.2320394,139.0411203,15.06z/data=!4m6!3m5!1s0x6019a20dde6b38a3:0x4106a85770c41c2d!8m2!3d35.2351242!4d139.0501396!16s%2Fg%2F1tvyltxd"
   }] 
 }

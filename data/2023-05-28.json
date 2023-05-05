@@ -1,11 +1,48 @@
 {
   "label": "Nagoya - 名古屋",
   "timezone": "JST",
-  "palette": 3,
+  "palette": 4,
   "hotel": {
     "name_english": "Lamp light books hotel",
     "name_japanese": "ランプライトブックスホテル",
     "location": "https://www.google.com/maps/place/LAMP+LIGHT+BOOKS+HOTEL+nagoya/@35.1674037,136.8921929,17.15z/data=!4m9!3m8!1s0x600376d7be8186ef:0x935d0be4035334f1!5m2!4m1!1i2!8m2!3d35.169868!4d136.894519!16s%2Fg%2F11g9qvn88y"
   },
-  "itinerary": [] 
+  "itinerary": [{
+    "type": "route",
+    "label": "Nagoya - Takayama",
+    "label_japanese": "名古屋 - 高山",
+    "departure": "2023-05-28T07:43:00.000+09:00",
+    "arrival": "2023-05-28T10:16:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Takayama+Station,+%EF%BC%91%E4%B8%81%E7%9B%AE+%E6%98%AD%E5%92%8C%E7%94%BA+%E9%AB%98%E5%B1%B1%E5%B8%82+%E5%B2%90%E9%98%9C%E7%9C%8C+Japan/Nagoya+Station,+1+Chome-1+Meieki,+Nakamura+Ward,+Nagoya,+Aichi,+Japan/@35.6538879,136.3664757,9z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6002bb285cd10cc1:0x4cd5efa6126c759!2m2!1d137.2513645!2d36.1410762!1m5!1m1!1s0x600376e794d78b89:0x81f7204bf8261663!2m2!1d136.8815369!2d35.170915!2m3!6e0!7e2!8j1685296800!3e3"
+  }, {
+    "type": "loi",
+    "label": "Takayama Matsuri Yatai Kaikan",
+    "label_japanese": "高山祭屋台会館",
+    "location": "https://www.google.com/maps/place/Takayama+Matsuri+Yatai+Kaikan/@36.1437208,137.2527394,14.66z/data=!4m6!3m5!1s0x6002bad3d5bedf79:0x11cd1c1adc7502bb!8m2!3d36.1483417!4d137.2601188!16s%2Fg%2F1tgcrt2t"
+  }, {
+    "type": "food",
+    "label": "Miyagawa Morning Market",
+    "location": "https://www.google.com/maps/place/Miyagawa+Morning+Markets/@36.1363762,137.2183384,13.8z/data=!4m8!3m7!1s0x6002bad6cfb0ec13:0x4c262f0cacf9e0d6!8m2!3d36.144704!4d137.2579466!9m1!1b1!16s%2Fg%2F120wl4t5"
+  }, {
+    "type": "loi",
+    "label": "Hida Folk Village",
+    "label_japanese": "飛騨の里",
+    "location": "https://www.google.com/maps/place/Hida+Folk+Village/@36.1363762,137.2183384,13.8z/data=!4m6!3m5!1s0x6002bb39afd86499:0xd6a4b260c226fc44!8m2!3d36.1324902!4d137.2350898!16zL20vMGNxZjhq"
+  }, {
+    "type": "loi",
+    "label": "Shiroyama Park",
+    "label_japanese": "城山公園",
+    "location": "https://www.google.com/maps/place/Shiroyama+Park/@36.1366381,137.2616096,16.33z/data=!4m14!1m7!3m6!1s0x6002bad14ced1ba7:0xf20cb602d3b3ad6!2sYoshijima+Traditional+House!8m2!3d36.1466166!4d137.2582844!16s%2Fg%2F1thggyvx!3m5!1s0x6002bac2bb2a3669:0x14456b51b5605f80!8m2!3d36.1400419!4d137.263259!16s%2Fm%2F0fq0f3z"
+  }, {
+    "type": "food",
+    "label": "Kyoya",
+    "location": "https://www.google.com/maps/place/Ky%C5%8Dya/@36.1462877,137.2564307,17z/data=!3m1!4b1!4m6!3m5!1s0x6002bad13983da23:0x7d534cce91dfc542!8m2!3d36.1462877!4d137.2590056!16s%2Fg%2F1vjdpzrt"
+  }, {
+    "type": "route",
+    "label": "Takayama - Nagoya",
+    "label_japanese": "高山 - 名古屋",
+    "departure": "2023-05-28T18:48:00.000+09:00",
+    "arrival": "2023-05-28T21:03:00.000+09:00",
+    "route": "https://www.google.com/maps/dir/Takayama+Station,+%EF%BC%91%E4%B8%81%E7%9B%AE+%E6%98%AD%E5%92%8C%E7%94%BA+%E9%AB%98%E5%B1%B1%E5%B8%82+%E5%B2%90%E9%98%9C%E7%9C%8C+Japan/Nagoya+Station,+1+Chome-1+Meieki,+Nakamura+Ward,+Nagoya,+Aichi,+Japan/@35.6538879,136.3664757,9z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6002bb285cd10cc1:0x4cd5efa6126c759!2m2!1d137.2513645!2d36.1410762!1m5!1m1!1s0x600376e794d78b89:0x81f7204bf8261663!2m2!1d136.8815369!2d35.170915!2m3!6e0!7e2!8j1685296800!3e3"
+  }] 
 }

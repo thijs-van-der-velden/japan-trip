@@ -7,5 +7,30 @@
     "name_japanese": "ホテルインターゲート大阪 梅田",
     "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
   },
-  "itinerary": [] 
+  "itinerary": [{
+    "type": "loi",
+    "label": "Osaka Castle",
+    "label_japanese": "大阪城",
+    "location": "https://www.google.com/maps/place/Osaka+Castle/@34.6862134,135.5222543,16.52z/data=!4m6!3m5!1s0x6000e0cd5c283afd:0xf01d07d5ca11e41!8m2!3d34.6872571!4d135.5258546!16zL20vMDI0Yl9n"
+  }, {
+    "type": "loi",
+    "label": "Shitennoji (Flea market)",
+    "label_japanese":"四天王寺",
+    "location": "https://www.google.com/maps/place/Shitenno-ji/@34.6544581,135.513949,17z/data=!3m1!4b1!4m6!3m5!1s0x6000ddf83b3a5021:0xb6aa81c8bfad602d!8m2!3d34.6544581!4d135.5165239!16zL20vMGc1MHhj"
+  }, {
+    "type": "loi",
+    "label": "Tsutenkaku",
+    "label_japanese": "通天閣",
+    "location": "https://www.google.com/maps/place/Tsutenkaku/@34.6527287,135.506356,17z/data=!4m6!3m5!1s0x6000e76077e042ff:0xe5cbcf56def44557!8m2!3d34.6524992!4d135.5063058!16zL20vMDJia3do"
+  }, {
+    "type": "loi",
+    "label": "Kuromon Ichiba Market",
+    "label_japanese": "黒門市場",
+    "location": "https://www.google.com/maps/place/Kuromon+Ichiba+Market/@34.6654487,135.5080587,16.68z/data=!4m6!3m5!1s0x6000e741e541225d:0xac1d2c78be23c141!8m2!3d34.6653557!4d135.5062259!16s%2Fm%2F0nbf11h"
+  }, {
+    "type": "loi",
+    "label": "Osaka Ukiyoe Museum",
+    "label_japanese": "大阪浮世絵美術館",
+    "location": "https://www.google.com/maps/place/Osaka+Ukiyoe+Museum/@34.6691979,135.5013136,16.15z/data=!3m1!5s0x6000e71155512f53:0x5681ae964982cedc!4m6!3m5!1s0x6000e72ccf636ad9:0x9ddfbf48b9b69ab!8m2!3d34.6710169!4d135.5014343!16s%2Fg%2F11fmbdbtvb"
+  }] 
 }

@@ -7,6 +7,7 @@ import QR from "../rows/qr";
 import LOI from "../rows/loi";
 import Event from "../rows/event";
 import Route from "../rows/route";
+import Food from "../rows/food";
 
 import {
   Wrapper,
@@ -58,6 +59,8 @@ const Day = ({ timezone, date, label, itinerary, hotel, palette }) => {
                 return <LOI key={i} {...item} timezone={timezone}/>
               case 'event':
                 return <Event key={i} {...item} timezone={timezone}/>
+              case 'food':
+                  return <Food key={i} {...item} timezone={timezone}/>
               case 'route':
                 return <Route key={i} {...item} timezone={timezone}/>
   
