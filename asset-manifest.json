@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/japan-trip/static/css/main.03e8848d.css",
-    "main.js": "/japan-trip/static/js/main.16ed0b2b.js",
+    "main.js": "/japan-trip/static/js/main.4b1d5c44.js",
     "static/js/833.14da5aed.js": "/japan-trip/static/js/833.14da5aed.js",
     "favicon.ico": "/japan-trip/favicon.ico",
     "index.html": "/japan-trip/index.html",
@@ -9,12 +9,12 @@
     "favicon-16.png": "/japan-trip/favicon-16.png",
     "serve.json": "/japan-trip/serve.json",
     "manifest.json": "/japan-trip/manifest.json",
-    "main.16ed0b2b.js.map": "/japan-trip/static/js/main.16ed0b2b.js.map",
+    "main.4b1d5c44.js.map": "/japan-trip/static/js/main.4b1d5c44.js.map",
     "833.14da5aed.js.map": "/japan-trip/static/js/833.14da5aed.js.map"
   },
   "entrypoints": [
     "static/js/833.14da5aed.js",
     "static/css/main.03e8848d.css",
-    "static/js/main.16ed0b2b.js"
+    "static/js/main.4b1d5c44.js"
   ]
 }
