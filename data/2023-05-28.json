@@ -13,7 +13,7 @@
     "label_japanese": "名古屋 - 高山",
     "departure": "2023-05-28T07:43:00.000+09:00",
     "arrival": "2023-05-28T10:16:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/Takayama+Station,+%EF%BC%91%E4%B8%81%E7%9B%AE+%E6%98%AD%E5%92%8C%E7%94%BA+%E9%AB%98%E5%B1%B1%E5%B8%82+%E5%B2%90%E9%98%9C%E7%9C%8C+Japan/Nagoya+Station,+1+Chome-1+Meieki,+Nakamura+Ward,+Nagoya,+Aichi,+Japan/@35.6538879,136.3664757,9z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6002bb285cd10cc1:0x4cd5efa6126c759!2m2!1d137.2513645!2d36.1410762!1m5!1m1!1s0x600376e794d78b89:0x81f7204bf8261663!2m2!1d136.8815369!2d35.170915!2m3!6e0!7e2!8j1685296800!3e3"
+    "route": "https://www.google.com/maps/dir/Nagoya+Station,+1+Chome-1+Meieki,+Nakamura+Ward,+Nagoya,+Aichi,+Japan/Takayama+Station,+%EF%BC%91%E4%B8%81%E7%9B%AE+%E6%98%AD%E5%92%8C%E7%94%BA+%E9%AB%98%E5%B1%B1%E5%B8%82+%E5%B2%90%E9%98%9C%E7%9C%8C+Japan/@35.6544812,136.3664515,9z/am=t/data=!4m18!4m17!1m5!1m1!1s0x600376e794d78b89:0x81f7204bf8261663!2m2!1d136.8815369!2d35.170915!1m5!1m1!1s0x6002bb285cd10cc1:0x4cd5efa6126c759!2m2!1d137.2513645!2d36.1410762!2m3!6e0!7e2!8j1685259000!3e3?hl=en"
   }, {
     "type": "loi",
     "label": "Takayama Matsuri Yatai Kaikan",

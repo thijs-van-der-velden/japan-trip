@@ -5,7 +5,8 @@
   "hotel": {
     "name_english": "The Blossom Kyoto",
     "location": "https://www.google.com/maps/place/THE+BLOSSOM+KYOTO/@34.9964197,135.7609419,17.89z/data=!4m10!3m9!1s0x600108a333e6dde3:0xc8106af5c0e60272!5m3!1s2023-05-25!4m1!1i2!8m2!3d34.9964378!4d135.7620419!16s%2Fg%2F11s_5ffy_l?hl=en",
-    "checkin_time": "2023-05-18T15:00:00.000+09:00"
+    "checkin_time": "2023-05-18T15:00:00.000+09:00",
+    "breakfast": true
   },
   "itinerary": [{
     "type": "route",

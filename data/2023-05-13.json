@@ -15,5 +15,10 @@
     "type": "loi",
     "label": "Kanda Matsuri Festival",
     "location": "https://www.google.com/maps/place/Kanda+Myojin+Shrine/@35.7020186,139.764998,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6?hl=en"
+  }, {
+    "type": "loi",
+    "label": "Suitengu Shrine",
+    "label_japanese": "水天宮",
+    "location": "https://www.google.com/maps/place/Suitengu+Shrine/@35.6832848,139.7843023,17.25z/data=!3m1!5s0x60188945060cbb2f:0x856f2b5cc28edeac!4m6!3m5!1s0x6018894571ce35e9:0x42a794f3696164d8!8m2!3d35.6836567!4d139.7850214!16s%2Fm%2F02z1463"
   }]
 }

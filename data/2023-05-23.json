@@ -24,7 +24,7 @@
     "type": "route",
     "departure": "2023-05-23T15:29:00.000+09:00",
     "arrival": "2023-05-23T18:26:00.000+09:00",
-    "route": "https://www.google.com/maps/dir/%E5%A4%A7%E4%B9%85%E9%87%8E%E5%B3%B6(%E3%81%86%E3%81%95%E3%81%8E%E5%B3%B6)/Hiroshima,+Japan/@34.3337014,132.6064436,11z/data=!4m19!4m18!1m5!1m1!1s0x35504593696a2617:0x43932414803f3ab4!2m2!1d132.9939774!2d34.30906!1m5!1m1!1s0x355a9908eef34fbb:0x7e4ce50cfc1f772!2m2!1d132.4553055!2d34.3852894!2m3!6e0!7e2!8j1684854900!3e3!5i3?hl=en",
+    "route": "https://www.google.com/maps/dir/%E5%A4%A7%E4%B9%85%E9%87%8E%E5%B3%B6(%E3%81%86%E3%81%95%E3%81%8E%E5%B3%B6)/Hiroshima,+Japan/@34.3334927,132.4910637,10z/am=t/data=!3m1!4b1!4m19!4m18!1m5!1m1!1s0x35504593696a2617:0x43932414803f3ab4!2m2!1d132.9939774!2d34.30906!1m5!1m1!1s0x355a9908eef34fbb:0x7e4ce50cfc1f772!2m2!1d132.4553055!2d34.3852894!2m3!6e0!7e2!8j1684854900!3e3!5i3?hl=en",
     "label": "Okunoshima - Hiroshima",
     "label_japanese": "大久野島 - 広島"
   }] 

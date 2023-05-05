@@ -16,7 +16,7 @@
       "type": "loi",
       "label": "Shirotori Garden",
       "label_japanese": "白鳥庭園",
-      "locaiton": "https://www.google.com/maps/place/Shirotori+Garden/@35.1260959,136.8961446,16.85z/data=!4m16!1m9!3m8!1s0x600379f7bfe647b5:0xa0866d23ee02655!2sShirotori+Garden!8m2!3d35.1261056!4d136.9011025!9m1!1b1!16s%2Fg%2F122qgmk2!3m5!1s0x600379f7bfe647b5:0xa0866d23ee02655!8m2!3d35.1261056!4d136.9011025!16s%2Fg%2F122qgmk2"
+      "location": "https://www.google.com/maps/place/Shirotori+Garden/@35.1260959,136.8961446,16.85z/data=!4m16!1m9!3m8!1s0x600379f7bfe647b5:0xa0866d23ee02655!2sShirotori+Garden!8m2!3d35.1261056!4d136.9011025!9m1!1b1!16s%2Fg%2F122qgmk2!3m5!1s0x600379f7bfe647b5:0xa0866d23ee02655!8m2!3d35.1261056!4d136.9011025!16s%2Fg%2F122qgmk2"
     }, {
       "type": "event",
       "label": "Ghibli Park (print tickets)",

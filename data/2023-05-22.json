@@ -5,14 +5,27 @@
   "hotel": {
     "name_english": "Hotel Intergate Osaka Umeda",
     "name_japanese": "ホテルインターゲート大阪 梅田",
-    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16"
+    "location": "https://www.google.com/maps/place/Hotel+Intergate+Osaka+Umeda/@34.6983387,135.4906404,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!5m2!4m1!1i2!8m2!3d34.6983387!4d135.4932153!16s%2Fg%2F11h5mnwr16",
+    "breakfast": "true"
   },
   "itinerary": [{
+      "type": "route",
+      "departure": "2023-05-22T09:11:00.000+09:00",
+      "arrival": "2023-05-22T09:53:00.000+09:00",
+      "label": "Hotel - Cup Noodle Museum",
+      "route": "https://www.google.com/maps/dir/Hotel+Intergate+Osaka+Umeda,+2+Chome-5-2+Umeda,+Kita+Ward,+Osaka,+Japan/Cup+Noodles+Museum+Osaka+Ikeda,+The+Instant+Ramen+Museum,+8+Masumicho,+Ikeda,+Osaka,+Japan/@34.7578991,135.3756026,12z/am=t/data=!4m18!4m17!1m5!1m1!1s0x6000e7d8ca57be0f:0xce60d22fbb7cef61!2m2!1d135.4932153!2d34.6983387!1m5!1m1!1s0x6000f0c60f096aa7:0xe581ef01f49dbaa!2m2!1d135.4267016!2d34.8181084!2m3!6e1!7e2!8j1684749600!3e3"
+    }, {
       "type": "loi",
       "label": "Cup Noodle Museum",
       "label_japanese": "カップヌードルミュージアム",
       "location": "https://www.google.com/maps/place/Cup+Noodles+Museum+Osaka+Ikeda/@34.8188188,135.4325173,14.55z/data=!4m6!3m5!1s0x6000f0c60f096aa7:0xe581ef01f49dbaa!8m2!3d34.8181084!4d135.4267016!16zL20vMDc4bTM5"
     }, {
+      "type": "route",
+      "departure": "2023-05-22T11:33:00.000+09:00",
+      "arrival": "2023-05-22T12:16:00.000+09:00",
+      "label": "Cup Noodle Museum - Hike",
+      "route": "https://www.google.com/maps/dir/Cup+Noodles+Museum+Osaka+Ikeda,+The+Instant+Ramen+Museum,+8+Masumicho,+Ikeda,+Osaka,+Japan/Japan,+%E3%80%92669-1136+Hyogo,+Nishinomiya,+Najiokonomoto,+13%E2%88%92Unnamed+Road+%EF%BC%91%EF%BC%93+%E5%9B%BD%E9%89%84%E7%A6%8F%E7%9F%A5%E5%B1%B1%E7%B7%9A%E8%B7%A1/@34.8188494,135.2977703,12z/am=t/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x6000f0c60f096aa7:0xe581ef01f49dbaa!2m2!1d135.4267016!2d34.8181084!1m5!1m1!1s0x6000f59f5ff30523:0xa7f5e49d337f2e72!2m2!1d135.3190622!2d34.8242468!2m3!6e0!7e2!8j1684755000!3e3"  
+    },{
       "type": "loi",
       "label": "Abandoned train track hike",
       "label_japanese": "国鉄福知山線跡",

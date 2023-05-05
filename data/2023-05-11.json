@@ -13,7 +13,7 @@
       "booking_ref": "ARS_SKYTREE-20230502-NCW9",
       "start_time": "2023-05-11T10:00:00.000+09:00",
       "location": "https://www.google.com/maps/place/Tokyo+Skytree/@35.7100627,139.8081255,17z/data=!3m2!4b1!5s0x60188ed6f9e7acb7:0x486cece4c5ab3730!4m6!3m5!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a!8m2!3d35.7100627!4d139.8107004!16zL20vMDd0aGty",
-      "ticket": "https://mail.google.com/mail/u/0?ui=2&ik=e3dc49a2d2&attid=0.2&permmsgid=msg-f:1764769509722187665&th=187db884d96e6791&view=att&disp=inline"
+      "ticket": "https://file.linktivity.io/voucher/ARS_SKYTREE-20230502-NCW9/qtD0_BRB-wkNnCbo/mobile.pdf"
     }, {
       "type": "loi",
       "label": "Kappabashi Street",
@@ -28,7 +28,7 @@
       "type": "loi",
       "label": "Akihabara",
       "label_japanese": "秋葉原",
-      "location": "https://www.google.com/maps/place/Akihabara,+Taito+City,+Tokyo+110-0006,+Japan/@35.7021724,139.7719771,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3!8m2!3d35.7022589!4d139.7744733!16zL20vMDExOW0"
+      "location": "https://www.google.com/maps/place/Akihabara,+Taito+City,+Tokyo+110-0006,+Japan/@35.7022153,139.7738967,18.52z/data=!4m6!3m5!1s0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3!8m2!3d35.7022589!4d139.7744733!16zL20vMDExOW0"
     }
   ]
 }

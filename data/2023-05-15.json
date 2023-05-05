@@ -6,16 +6,12 @@
     "name_english": "Kyomachiya Ryokan Sakura Urushitei",
     "name_japanese": "京町家旅館さくらうるし邸",
     "location": "https://www.google.com/maps/place/Kyomachiya+Ryokan+Sakura+Urushitei/@34.9998523,135.7638833,17.31z/data=!4m9!3m8!1s0x600108bd83496e37:0x32d99888af7adfd0!5m2!4m1!1i2!8m2!3d35.0000132!4d135.7640715!16s%2Fg%2F11b7kdnkvd?hl=en-GB",
-    "checkin_time": "2023-05-15T12:00:00.000+09:00"
+    "checkin_time": "2023-05-15T15:00:00.000+09:00"
   },
   "itinerary": [{
     "type": "food",
-    "label": "Lunch option 1 - とり天 いちや",
+    "label": "Lunch option - とり天 いちや",
     "location": "https://www.google.com/maps/place/%E3%81%A8%E3%82%8A%E5%A4%A9+%E3%81%84%E3%81%A1%E3%82%84/@35.1911267,139.0274437,18.19z/data=!4m6!3m5!1s0x6019999ed11da0db:0x6aff0d7d95c356dd!8m2!3d35.1911744!4d139.0272743!16s%2Fg%2F11khzj5hwg"
-  }, {
-    "type": "food",
-    "label": "Lunch option 2 - Tatsumi Garden",
-    "location": "  https://www.google.com/maps/place/Tatsumi+Garden/@35.1888947,139.0250266,18z/data=!4m6!3m5!1s0x6019986961fcc001:0x3d3fd374b5a4fd7a!8m2!3d35.1884895!4d139.0246414!16s%2Fg%2F11c7480nfj"
   }, {
     "type": "route",
     "travel_type": "bus",

@@ -28,20 +28,15 @@
       "location": "https://www.google.com/maps/place/FamilyMart/@35.671696,139.7031498,19.48z/data=!3m1!5s0x60188cbafa84dc1d:0x4d357686b372ce7c!4m15!1m8!3m7!1s0x60188ca4adde65cb:0x1eb1e58ab2168aa1!2s1-ch%C5%8Dme-6+Jing%C5%ABmae,+Shibuya+City,+Tokyo+150-0001,+Japan!3b1!8m2!3d35.6711351!4d139.7052181!16s%2Fg%2F11c3q3gqck!3m5!1s0x60188cbaf06db8b9:0xfecd9355be5db5e1!8m2!3d35.6715996!4d139.7031998!16s%2Fg%2F1vzn5k4r"
     }, {
       "type": "event",
-      "label": "84 Nintendo Cafe",
-      "start_time": "2023-05-10T15:00:00.000+09:00",
-      "location": "https://www.google.com/maps/place/Shibuya+Scramble+Crossing/@35.6673075,139.7051184,14.31z/data=!3m1!5s0x60188b57f546295f:0x486cece41a7b21b0!4m6!3m5!1s0x60188bcaeb0cd12b:0x20e563a2e0aec969!8m2!3d35.659482!4d139.7005596!16s%2Fg%2F11shy4scrj"
-    }, {
-      "type": "event",
       "label": "Shibuya Sky",
       "start_time": "2023-05-10T17:40:00.000+09:00",
       "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9",
-      "ticket": "https://mail.google.com/mail/u/0?ui=2&ik=e3dc49a2d2&attid=0.1&permmsgid=msg-f:1763736927376523830&th=187a0d6409844236&view=att&disp=safe"
+      "ticket": "https://mail.google.com/mail/mu/mp/602/#cv/search/Shibuya%20sky/187a0d6409844236"
     }, {
       "type": "food",
       "label": "MagicalTrip food tour",
       "start_time": "2023-05-10T18:50:00.000+09:00",
-      "location": "https://www.google.com/maps/place/Shibuya+Sky/@35.6580857,139.7004352,16.53z/data=!4m6!3m5!1s0x60188b6825f61ae1:0x6ff47ee61e522473!8m2!3d35.6584466!4d139.7021636!16s%2Fg%2F11hdvt_gp9"
+      "location": "https://www.google.com/maps/place/Starbucks+Coffee+-+Shibuya+Tsutaya/@35.6598589,139.6997076,19z/data=!3m2!4b1!5s0x60188ca819fcf62b:0x4a7c5635d1efc958!4m6!3m5!1s0x60188ca8194a6235:0x7e2eef92f5e67266!8m2!3d35.6598578!4d139.7003513!16s%2Fg%2F1td3rh7r"
     }
   ]
 }

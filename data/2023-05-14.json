@@ -6,7 +6,8 @@
     "name_english": "Fukuzumiro",
     "name_japanese": "福住楼",
     "location": "https://www.google.com/maps/place/Fukuzumiro/@35.233182,139.0895541,16.51z/data=!4m20!1m10!3m9!1s0x6019a3a701647bf7:0x353d21bda298579a!2sFukuzumiro!5m2!4m1!1i2!8m2!3d35.2329243!4d139.094642!16s%2Fm%2F0n5x0m2!3m8!1s0x6019a3a701647bf7:0x353d21bda298579a!5m2!4m1!1i2!8m2!3d35.2329243!4d139.094642!16s%2Fm%2F0n5x0m2",
-    "checkin_time": "2023-05-14T17:30:00.000+09:00"
+    "checkin_time": "2023-05-14T17:30:00.000+09:00",
+    "breakfast": true
   },
   "itinerary": [{
     "type": "route",

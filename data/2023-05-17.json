@@ -19,14 +19,14 @@
       "location": "https://www.google.com/maps/place/Kobe+Beef+Steak+Mouriya+Gion/@35.0033497,135.7701939,17z/data=!3m2!4b1!5s0x600108c03830b947:0x53f5f955a2e09953!4m6!3m5!1s0x600108c037dc4ed5:0x59a0c3454376ca86!8m2!3d35.0033497!4d135.7727688!16s%2Fg%2F11f4106744"
     }, {
       "type": "event",
-      "label": "Tea ceremony at Ju-An",
+      "label": "Tea ceremony at Ju-An (LZMEM)",
       "start_time": "2023-05-17T15:30:00.000+09:00",
-      "location": "https://www.google.com/maps/place/Tea+Ceremony+Ju-An/@34.9953234,135.7615758,17z/data=!3m1!4b1!4m6!3m5!1s0x6001094cf6a41603:0xd2715c87c6b63359!8m2!3d34.9953234!4d135.7641507!16s%2Fg%2F11gnrl98bf"
+      "location": "https://www.google.com/maps/place/Tea+Ceremony+Ju-An/@34.9953277,135.7592798,17z/data=!3m1!4b1!4m6!3m5!1s0x6001094cf6a41603:0xd2715c87c6b63359!8m2!3d34.9953234!4d135.7641507!16s%2Fg%2F11gnrl98bf"
     }, {
       "type": "event",
       "label": "Gion evening walking tour",
       "start_time": "2023-05-17T18:00:00.000+09:00",
-      "location": "https://www.google.com/maps/dir//35.00445,135.77238/@35.0047046,135.7712106,16.89z"
+      "location": "https://www.google.com/maps/place/Kitazagionomoide+Museum/@35.0044711,135.7697801,17z/data=!3m2!4b1!5s0x600108ea9ec00617:0x797dbeb16ad7615d!4m6!3m5!1s0x600108ea98d03da7:0x36a28e136184da15!8m2!3d35.0044667!4d135.772355!16s%2Fg%2F11bzzwdjdf"
     }
   ] 
 }
