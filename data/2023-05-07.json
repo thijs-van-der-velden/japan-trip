@@ -1,19 +1,19 @@
 {
   "label": "Edinburgh",
-  "timezone": "BST",
+  "timezone": "UTC+1",
   "palette": 0,
   "itinerary": [{
       "type": "flight",
       "label": "EHD to LHR",
       "departure": "2023-05-07T06:15:00.000+01:00",
-      "departure_timezone": "BST",
+      "departure_timezone": "UTC+1",
       "arrival": "2023-05-07T07:40:00.000+01:00",
-      "arrival_timezone": "BST"
+      "arrival_timezone": "UTC+1"
     },{
       "type": "flight",
       "label": "LHR to HND",
       "departure": "2023-05-07T09:40:00.000+01:00",
-      "departure_timezone": "BST",
+      "departure_timezone": "UTC+1",
       "arrival": "2023-05-07T07:30:00.000+09:00",
       "arrival_timezone": "JST"
     }, {

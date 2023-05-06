@@ -49,7 +49,6 @@ const Day = ({ timezone, date, label, itinerary, hotel, palette }) => {
 
         {
           itinerary && itinerary.length > 0 && itinerary.map((item, i) => {
-            console.log(item);
             switch(item.type) {
               case 'flight':
                 return <Flight key={i} {...item} timezone={timezone}/>;
