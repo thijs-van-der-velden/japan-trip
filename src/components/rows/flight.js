@@ -7,17 +7,17 @@ import { FlightRow, IconCollection, IconCollectionItem, Time } from './styles'
 
 import Icon from '../icon';
 
-const Flight = ({ label, departure, arrival }) => {
+const Flight = ({ label, departure, departure_timezone, arrival, arrival_timezone }) => {
   return (
     <FlightRow>
       {label}
       <IconCollection>
         <IconCollectionItem>
-          <Time>{DateTime.fromISO(departure).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
+          <Time>{DateTime.fromISO(departure).setZone(departure_timezone).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
           <Icon icon={faPlaneDeparture}/>
         </IconCollectionItem>
         <IconCollectionItem>
-          <Time>{DateTime.fromISO(arrival).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
+          <Time>{DateTime.fromISO(arrival).setZone(arrival_timezone).toLocaleString(DateTime.TIME_24_SIMPLE)}</Time>
           <Icon icon={faPlaneArrival}/>
         </IconCollectionItem>
       </IconCollection>

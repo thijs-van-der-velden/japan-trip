@@ -6,12 +6,16 @@
       "type": "flight",
       "label": "EHD to LHR",
       "departure": "2023-05-07T06:15:00.000+01:00",
-      "arrival": "2023-05-07T07:40:00.000+01:00"
+      "departure_timezone": "BST",
+      "arrival": "2023-05-07T07:40:00.000+01:00",
+      "arrival_timezone": "BST"
     },{
       "type": "flight",
       "label": "LHR to HND",
       "departure": "2023-05-07T09:40:00.000+01:00",
-      "arrival": "2023-05-07T07:30:00.000+09:00"
+      "departure_timezone": "BST",
+      "arrival": "2023-05-07T07:30:00.000+09:00",
+      "arrival_timezone": "JST"
     }, {
       "type": "qr",
       "label": "Immigration QR",

@@ -29,6 +29,11 @@
     "location": "https://www.google.com/maps/place/Kuromon+Ichiba+Market/@34.6654487,135.5080587,16.68z/data=!4m6!3m5!1s0x6000e741e541225d:0xac1d2c78be23c141!8m2!3d34.6653557!4d135.5062259!16s%2Fm%2F0nbf11h"
   }, {
     "type": "loi",
+    "label": "Hozenji Yokocho",
+    "label_japanese": "法善寺横丁",  
+    "location": "https://www.google.com/maps/place/Hozenji+Yokocho/@34.6679718,135.5023104,19z/data=!4m6!3m5!1s0x6000e714c5508663:0x1aee0e0c59df68d2!8m2!3d34.6679884!4d135.5027047!16s%2Fg%2F11f0l4kp_3"
+  }, {
+    "type": "loi",
     "label": "Osaka Ukiyoe Museum",
     "label_japanese": "大阪浮世絵美術館",
     "location": "https://www.google.com/maps/place/Osaka+Ukiyoe+Museum/@34.6691979,135.5013136,16.15z/data=!3m1!5s0x6000e71155512f53:0x5681ae964982cedc!4m6!3m5!1s0x6000e72ccf636ad9:0x9ddfbf48b9b69ab!8m2!3d34.6710169!4d135.5014343!16s%2Fg%2F11fmbdbtvb"
